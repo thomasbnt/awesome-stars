@@ -31,9 +31,7 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
-- [PostScript](#postscript)
 - [PowerShell](#powershell)
-- [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -771,27 +769,17 @@
 - [hexicans/ServerMonitor](https://github.com/hexicans/ServerMonitor) - PHP Script to show the server status Memory, CPU and Disk usage
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [NeoFrag/NeoFrag](https://github.com/NeoFrag/NeoFrag) - Your turnkey gaming website, 100% free, 100% eSport!
-- [outout14/raspmonitor](https://github.com/outout14/raspmonitor) - RaspberryPi monitoring script
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 - [BlogoText/blogotext-addons](https://github.com/BlogoText/blogotext-addons) - Add-ons for BlogoText
 - [BlogoText/blogotext](https://github.com/BlogoText/blogotext) - A little more than a lightweight SQLite Blog-Engine.
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-- [unsplash/unsplash-php](https://github.com/unsplash/unsplash-php) - 👻 Official PHP wrapper for the Unsplash API
 - [Codiad/Codiad](https://github.com/Codiad/Codiad) - Web Based, Cloud IDE
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [braginteractive/MDLWP](https://github.com/braginteractive/MDLWP) - Material Design Lite WordPress Theme
 
-## PostScript 
-
-- [voodootikigod/logo.js](https://github.com/voodootikigod/logo.js) - A community logo for JS
-
 ## PowerShell 
 
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-
-## Pug 
-
-- [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 
 ## Python 
 
