@@ -881,7 +881,7 @@
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [rubyberlin/code-of-conduct](https://github.com/rubyberlin/code-of-conduct) - 
-- [fbnlsr/primative.net](https://github.com/fbnlsr/primative.net) - This is my personal website.
+- [fbnlsr/my-website](https://github.com/fbnlsr/my-website) - This is my personal website.
 - [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) - Bootstrap rubygem for Rails / Sprockets / Hanami / etc
 - [tijme/blog-v1](https://github.com/tijme/blog-v1) - My blog about cyber security, hacking, software engineering and much more.
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
