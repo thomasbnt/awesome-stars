@@ -612,7 +612,6 @@
 - [cferdinandi/smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links.
 - [ampproject/ampbench](https://github.com/ampproject/ampbench) - AMPBench: AMP URL validation and troubleshooting tools (DEPRECATED)
 - [Thomas101/wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox
-- [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [OwlCarousel2/OwlCarousel2](https://github.com/OwlCarousel2/OwlCarousel2) - DEPRECATED jQuery Responsive Carousel.
 - [PencilCode/pencilcode](https://github.com/PencilCode/pencilcode) - An online IDE for kids: pencilcode.net.
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
