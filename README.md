@@ -1150,7 +1150,7 @@
 - [FlynnDerek/vue-fs](https://github.com/FlynnDerek/vue-fs) - A Vue file management client, complete with a node/express/FS backend.
 - [nuxtlabs/vue-telescope-extensions](https://github.com/nuxtlabs/vue-telescope-extensions) - Browser extensions for Vue Telescope
 - [Androz2091/slash-commands-gui](https://github.com/Androz2091/slash-commands-gui) - GUI tool to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS 🚀
-- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp
+- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [wass08/vue-one-simple-colorpicker](https://github.com/wass08/vue-one-simple-colorpicker) - A simple colorpicker for Vue JS
 - [andrewcourtice/ocula](https://github.com/andrewcourtice/ocula) - The free and open-source progressive weather app
 - [ditdot-dev/vue-flow-form](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js.
