@@ -556,7 +556,6 @@
 - [proustibat/node.js_tuto-chat](https://github.com/proustibat/node.js_tuto-chat) - D'après le tutoriel vidéo NodeJS : Créer un tchat avec NodeJS et Socket.IO (http://www.grafikart.fr/tutoriels/nodejs/nodejs-socketio-tchat-366)
 - [soapdog/webextension-image-properties](https://github.com/soapdog/webextension-image-properties) - A simple webextension to display image/photo properties from exif data
 - [bubkoo/hexo-filter-fenced-code](https://github.com/bubkoo/hexo-filter-fenced-code) - 🎨 Extend syntax for the native fenced code block.
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [steemit/steem-js](https://github.com/steemit/steem-js) - Steem.js the official JavaScript library for Steem blockchain
 - [Danktuary/Rinon](https://github.com/Danktuary/Rinon) - An emoji server bot for some friends and I. 🎉
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
@@ -1104,6 +1103,7 @@
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1143,7 +1143,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [lmarschall/foodover](https://github.com/lmarschall/foodover) - A progressive web app to utilize your leftover products.
 - [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
-- [niklashaug/vue-carbonbadge](https://github.com/niklashaug/vue-carbonbadge) - 
+- [niklashaug/vue-carbonbadge](https://github.com/niklashaug/vue-carbonbadge) - Vue component for the Website Carbon Badge compatible with Vue 3
 - [kernoeb/drapeau-du-jour](https://github.com/kernoeb/drapeau-du-jour) - Drapeau du jour / Flag of the day
 - [Cv-Keep/cvkeep-frontend](https://github.com/Cv-Keep/cvkeep-frontend) - Cv Keep front end official repository
 - [DidoMarchet/starter-kit-nuxt-locomotive-scroll](https://github.com/DidoMarchet/starter-kit-nuxt-locomotive-scroll) - Simple starter kit to use Locomotive Scroll and Nuxt without giving it a second though.
