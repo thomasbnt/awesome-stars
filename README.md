@@ -60,7 +60,7 @@
 
 ## C 
 
-- [webmproject/libwebp](https://github.com/webmproject/libwebp) - Mirror only. Please do not send pull requests.
+- [webmproject/libwebp](https://github.com/webmproject/libwebp) - Mirror only. Please do not send pull requests. See https://chromium.googlesource.com/webm/libwebp/+/HEAD/CONTRIBUTING.md.
 - [petewarden/spchcat](https://github.com/petewarden/spchcat) - Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
