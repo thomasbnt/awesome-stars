@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info) - Get metadata from any Spotify URL.
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
@@ -977,7 +978,7 @@
 - [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
-- [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt 2!
+- [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt 2
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus.
 - [vue-a11y/eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - An eslint plugin for checking Vue.js files for accessibility
 - [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
