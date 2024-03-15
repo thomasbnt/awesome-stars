@@ -830,7 +830,7 @@
 
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [MikeMcQuaid/TwitterDelete](https://github.com/MikeMcQuaid/TwitterDelete) - 💀 Deleted your old, unpopular tweets (archived)
