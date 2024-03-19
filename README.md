@@ -992,6 +992,7 @@
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [highlightjs/vue-plugin](https://github.com/highlightjs/vue-plugin) - Highlight.js Vue Plugin
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [nuxt-modules/web-vitals](https://github.com/nuxt-modules/web-vitals) - Web Vitals: Essential module for a healthy project
@@ -1006,7 +1007,7 @@
 - [wow-actions/potential-duplicates](https://github.com/wow-actions/potential-duplicates) - 🔎 Search for potential issue duplicates using Damerau–Levenshtein algorithm
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [DJDavid98/HammerTime](https://github.com/DJDavid98/HammerTime) - Generate timestamp indicators for Discord chat messages
 - [47ng/codec](https://github.com/47ng/codec) - Universal conversion of Uint8Array from/into UTF-8, base64url and hex in the browser and Node.js
 - [nuxt-community/pwa-module](https://github.com/nuxt-community/pwa-module) - Zero config PWA solution for Nuxt.js
@@ -1142,7 +1143,6 @@
 - [thomasbnt/lastfmprofile](https://github.com/thomasbnt/lastfmprofile) - An example of to get data from the API of Last.fm and show with Vue 3.
 - [thomasbnt/devtoprofile](https://github.com/thomasbnt/devtoprofile) - An example of getting data from the dev.to API to display its own articles.
 - [thomasbnt/DW_P7_Groupomania_frontend_OC](https://github.com/thomasbnt/DW_P7_Groupomania_frontend_OC) - Projet n°7 OpenClassrooms Développeur Web. — Partie Frontend.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [lmarschall/foodover](https://github.com/lmarschall/foodover) - A progressive web app to utilize your leftover products.
 - [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
 - [niklashaug/vue-carbonbadge](https://github.com/niklashaug/vue-carbonbadge) - Vue component for the Website Carbon Badge compatible with Vue 3
