@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [emil-petras/strapi-blurhash](https://github.com/emil-petras/strapi-blurhash) - A plugin for Strapi CMS that generates blurhash for your uploaded images
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info) - Get metadata from any Spotify URL.
