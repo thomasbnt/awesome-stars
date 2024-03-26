@@ -52,6 +52,7 @@
 
 ## Astro 
 
+- [christian-luntok/astro-lane](https://github.com/christian-luntok/astro-lane) - Astro Lane, a blog theme made for you!
 - [astro-community/icons](https://github.com/astro-community/icons) - Radix Icons for Astro
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [patrick91/astro-meta-tags](https://github.com/patrick91/astro-meta-tags) - A small Astro Dev Toolbar app to help you check your meta tags ✨
