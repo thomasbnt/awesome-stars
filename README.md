@@ -165,7 +165,7 @@
 ## Dart 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [filiph/egamebook](https://github.com/filiph/egamebook) - A procedural sword & sorcery adventure
 
 ## EJS 
@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [discord/cloudflare-sample-app](https://github.com/discord/cloudflare-sample-app) - Example discord bot using Cloudflare Workers
 - [emil-petras/strapi-blurhash](https://github.com/emil-petras/strapi-blurhash) - A plugin for Strapi CMS that generates blurhash for your uploaded images
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
@@ -943,6 +944,7 @@
 
 ## TypeScript 
 
+- [ktym4a/astro-page-insight](https://github.com/ktym4a/astro-page-insight) - Shows everything to improve from Lighthouse results directly on the page.
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [arneoio/rgaa-checker](https://github.com/arneoio/rgaa-checker) - A browser extension to check compliance with the RGAA standard
