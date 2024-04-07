@@ -682,7 +682,7 @@
 - [Delitefully/DiscordLists](https://github.com/Delitefully/DiscordLists) - Tracking Discord data
 - [CodeMouse92/DEVModInACan](https://github.com/CodeMouse92/DEVModInACan) - Canned moderation messages and comments for DEV.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [dephraiim/awesome-developer-dictionary](https://github.com/dephraiim/awesome-developer-dictionary) - 📖 A curated list of definitions of programming terms.
+- [ephraimduncan/awesome-developer-dictionary](https://github.com/ephraimduncan/awesome-developer-dictionary) - 📖 A curated list of definitions of programming terms.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges
 - [veliovgroup/ostrio](https://github.com/veliovgroup/ostrio) - ▲ Web services for JavaScript, Angular.js, React.js, Vue.js, Meteor.js, Node.js, and other JavaScript-based websites, web apps, single page applications (SPA), and progressive web applications (PWA). 
