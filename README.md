@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [discord/cloudflare-sample-app](https://github.com/discord/cloudflare-sample-app) - Example discord bot using Cloudflare Workers
 - [emil-petras/strapi-blurhash](https://github.com/emil-petras/strapi-blurhash) - A plugin for Strapi CMS that generates blurhash for your uploaded images
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
@@ -944,6 +945,7 @@
 
 ## TypeScript 
 
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [ktym4a/astro-page-insight](https://github.com/ktym4a/astro-page-insight) - Shows everything to improve from Lighthouse results directly on the page.
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
