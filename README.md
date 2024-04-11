@@ -550,7 +550,7 @@
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
-- [BlooStu2/BlooBot](https://github.com/BlooStu2/BlooBot) - BlooBot - moved to gitlab: https://gitlab.com/bloouwu/bloobot
+- [bloo-a/BlooBot](https://github.com/bloo-a/BlooBot) - BlooBot - moved to gitlab: https://gitlab.com/bloouwu/bloobot
 - [EtherbitHQ/donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [evenchange4/gh-polls-bot](https://github.com/evenchange4/gh-polls-bot) - Automatically create polls in GitHub issues.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
