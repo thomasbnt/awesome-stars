@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [devcer/astro-monetization](https://github.com/devcer/astro-monetization) - This Astro component simplifies the process of adding monetization links to your Astro sites.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [discord/cloudflare-sample-app](https://github.com/discord/cloudflare-sample-app) - Example discord bot using Cloudflare Workers
 - [emil-petras/strapi-blurhash](https://github.com/emil-petras/strapi-blurhash) - A plugin for Strapi CMS that generates blurhash for your uploaded images
