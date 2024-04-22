@@ -947,6 +947,7 @@
 
 ## TypeScript 
 
+- [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) - 
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [ktym4a/astro-page-insight](https://github.com/ktym4a/astro-page-insight) - Shows everything to improve from Lighthouse results directly on the page.
 - [unjs/undio](https://github.com/unjs/undio) - ⇔ Conventionally and Safely convert between various JavaScript data types
