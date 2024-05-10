@@ -284,6 +284,7 @@
 
 ## JavaScript 
 
+- [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free web software for signing PDFs and also organize pages, edit medata and compress pdf
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [devcer/astro-monetization](https://github.com/devcer/astro-monetization) - This Astro component simplifies the process of adding monetization links to your Astro sites.
