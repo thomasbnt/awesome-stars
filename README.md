@@ -308,6 +308,7 @@
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [sindresorhus/conduct](https://github.com/sindresorhus/conduct) - 🖖 Generate a Code of Conduct for your project
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [ExEr7um/vue3-vscode-snippets](https://github.com/ExEr7um/vue3-vscode-snippets) - Vue 3 snippets for VS Code
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
@@ -675,7 +676,6 @@
 - [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [catppuccin/mastodon](https://github.com/catppuccin/mastodon) - 💬 Soothing pastel theme for Mastodon
-- [ExEr7um/vue3-vscode-snippets](https://github.com/ExEr7um/vue3-vscode-snippets) - Vue 3 snippets for VS Code
 - [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) - 🎉 The best resources related to Vuetify
 - [thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
