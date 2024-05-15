@@ -743,6 +743,7 @@
 
 ## PHP 
 
+- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [xiffy/lastfmrss](https://github.com/xiffy/lastfmrss) - RSS Feed of any last played tracks or loved tracks
