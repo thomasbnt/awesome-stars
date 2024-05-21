@@ -954,6 +954,7 @@
 
 ## TypeScript 
 
+- [MatthiesenXYZ/astro-mcserverstatus](https://github.com/MatthiesenXYZ/astro-mcserverstatus) - Minecraft server Status helpers and widgets for your Astro site!
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
 - [DiscordAnalytics/node-package](https://github.com/DiscordAnalytics/node-package) - NodeJS library for Discord Analytics for Discord.js and Eris
