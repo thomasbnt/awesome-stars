@@ -285,6 +285,7 @@
 
 ## JavaScript 
 
+- [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome extension to play sounds on network requests, depending on request type and file size.
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free web software for signing PDFs and also organize pages, edit medata and compress pdf
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
@@ -954,6 +955,8 @@
 
 ## TypeScript 
 
+- [kevinzunigacuellar/coauthor-action](https://github.com/kevinzunigacuellar/coauthor-action) - A GitHub Action that generates a list of coauthors from a pull request and writes them to a comment
+- [kgierke/nuxt-basic-auth](https://github.com/kgierke/nuxt-basic-auth) - Nuxt 3 Module for Basic Authentication
 - [MatthiesenXYZ/astro-mcserverstatus](https://github.com/MatthiesenXYZ/astro-mcserverstatus) - Minecraft server Status helpers and widgets for your Astro site!
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
