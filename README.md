@@ -285,7 +285,7 @@
 
 ## JavaScript 
 
-- [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome extension to play sounds on network requests, depending on request type and file size.
+- [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome and Firefox extension to play sounds on network requests, depending on request type and file size.
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free web software for signing PDFs and also organize pages, edit medata and compress pdf
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
