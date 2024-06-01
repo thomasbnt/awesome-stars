@@ -956,6 +956,7 @@
 
 ## TypeScript 
 
+- [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [kevinzunigacuellar/coauthor-action](https://github.com/kevinzunigacuellar/coauthor-action) - A GitHub Action that generates a list of coauthors from a pull request and writes them to a comment
 - [kgierke/nuxt-basic-auth](https://github.com/kgierke/nuxt-basic-auth) - Nuxt 3 Module for Basic Authentication
 - [MatthiesenXYZ/astro-mcserverstatus](https://github.com/MatthiesenXYZ/astro-mcserverstatus) - Minecraft server Status helpers and widgets for your Astro site!
