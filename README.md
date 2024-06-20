@@ -56,7 +56,6 @@
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [patrick91/astro-meta-tags](https://github.com/patrick91/astro-meta-tags) - A small Astro Dev Toolbar app to help you check your meta tags ✨
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
-- [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page) - An open source astro status page
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## C 
@@ -956,6 +955,7 @@
 
 ## TypeScript 
 
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [kevinzunigacuellar/coauthor-action](https://github.com/kevinzunigacuellar/coauthor-action) - A GitHub Action that generates a list of coauthors from a pull request and writes them to a comment
 - [kgierke/nuxt-basic-auth](https://github.com/kgierke/nuxt-basic-auth) - Nuxt 3 Module for Basic Authentication
@@ -977,6 +977,7 @@
 - [Code42Cate/devto-wrapped](https://github.com/Code42Cate/devto-wrapped) - dev.to wrapped 2023 app
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [egidiusmengelberg/nuxt-aos](https://github.com/egidiusmengelberg/nuxt-aos) - A Nuxt module that adds Animate On Scroll
+- [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page) - An open source astro status page
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
