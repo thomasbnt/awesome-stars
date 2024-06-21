@@ -461,7 +461,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [yyx990803/register-service-worker](https://github.com/yyx990803/register-service-worker) - A script to simplify service worker registration with hooks for common events.
 - [christopherkade/banner-generator](https://github.com/christopherkade/banner-generator) - :speech_balloon: Easily generate banners for your articles on dev.to
-- [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) - Simple and tiny JavaScript library that adds parallax animations on any images
+- [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) - Easy Parallax Effect for React & JavaScript
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [rampa2510/gitesy](https://github.com/rampa2510/gitesy) - A nodejs based cli which automates the creation of a local as well as remote repo on the code hosting websites
 - [lukejacksonn/perflink](https://github.com/lukejacksonn/perflink) - Low friction JavaScript benchmarks that you can share via URL
@@ -674,6 +674,7 @@
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
+- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [catppuccin/mastodon](https://github.com/catppuccin/mastodon) - 💬 Soothing pastel theme for Mastodon
 - [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) - 🎉 The best resources related to Vuetify
@@ -908,7 +909,6 @@
 ## Shell 
 
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
-- [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 - [adafruit/Raspberry-Pi-Installer-Scripts](https://github.com/adafruit/Raspberry-Pi-Installer-Scripts) - 
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay 2, and Spotify Connect
 - [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
