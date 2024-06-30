@@ -21,6 +21,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -263,6 +264,10 @@
 ## Handlebars 
 
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
+
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -660,7 +665,6 @@
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nunjucks 
 
