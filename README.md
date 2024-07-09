@@ -833,7 +833,7 @@
 - [cookkkie/discord-app-generator](https://github.com/cookkkie/discord-app-generator) - 
 - [etra0/got](https://github.com/etra0/got) - 
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
-- [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+- [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [tvshowtime/tvshowtime-plex-scrobbler](https://github.com/tvshowtime/tvshowtime-plex-scrobbler) - This scrobbler sends episodes you watch on your Plex Media Center to TVShow Time
 - [bjarneo/Pytify](https://github.com/bjarneo/Pytify) - A CLI application for controlling Spotify
