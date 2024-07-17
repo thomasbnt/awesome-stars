@@ -245,7 +245,7 @@
 - [martenbjork/sign-up-for-facebook](https://github.com/martenbjork/sign-up-for-facebook) - A summary of what data Facebook collects and how it can be used
 - [pixelfed/project-website](https://github.com/pixelfed/project-website) - deprecated by https://github.com/pixelfedLabs/delta
 - [secuvera/SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
-- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
+- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - DEPRECATED. A fork of the iconic font and CSS toolkit
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [dtube/production](https://github.com/dtube/production) - Production app for D.Tube
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
