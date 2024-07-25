@@ -957,6 +957,7 @@
 
 ## TypeScript 
 
+- [prisma/nuxt-prisma](https://github.com/prisma/nuxt-prisma) - Prisma ORM integration for Nuxt
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [kevinzunigacuellar/coauthor-action](https://github.com/kevinzunigacuellar/coauthor-action) - A GitHub Action that generates a list of coauthors from a pull request and writes them to a comment
