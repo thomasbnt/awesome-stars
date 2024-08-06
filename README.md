@@ -897,6 +897,7 @@
 - [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [felippe-regazio/plume-css](https://github.com/felippe-regazio/plume-css) - A lightweight, minimal and highly themeable CSS Micro-Framework
+- [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
 - [jeremiecook/protonmail-theme](https://github.com/jeremiecook/protonmail-theme) - Protonmail Theme
 - [ciar4n/Izmir](https://github.com/ciar4n/Izmir) - Izmir - An image hover mini CSS library
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
@@ -959,6 +960,7 @@
 
 ## TypeScript 
 
+- [nuxtlabs/studio-module](https://github.com/nuxtlabs/studio-module) - Edit Nuxt Content website with a visual editor, in produciton.
 - [prisma/nuxt-prisma](https://github.com/prisma/nuxt-prisma) - Prisma ORM integration for Nuxt
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
@@ -1202,7 +1204,6 @@
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [Akryum/vue-mention](https://github.com/Akryum/vue-mention) - Mention component for Vue.js
-- [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
 - [boxmetrics/boxmetrics-dashboard](https://github.com/boxmetrics/boxmetrics-dashboard) - boxmetrics front app built with Vue.js
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
