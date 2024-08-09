@@ -746,6 +746,7 @@
 - [BeardDesign1/Material-design-theme](https://github.com/BeardDesign1/Material-design-theme) - 🎨 A ex-theme for Discord according to Google's Material design Guidelines. Now moved to https://github.com/rauenzi/Nox
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
+- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 
 ## PHP 
 
@@ -1160,7 +1161,6 @@
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [creativedeveloper-net/angular2-mdl-firebase](https://github.com/creativedeveloper-net/angular2-mdl-firebase) - Example of Angular 2 app based on angular2-mdl and Firebase
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
 ## Vim Script 
