@@ -362,7 +362,7 @@
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [PJijin/Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [reboxer/discord-oauth2](https://github.com/reboxer/discord-oauth2) - Discord's OAuth2 API wrapper.
 - [minemidnight/eris-additions](https://github.com/minemidnight/eris-additions) - extend prototypes for eris
 - [probot/unfurl](https://github.com/probot/unfurl) - a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions
@@ -524,7 +524,6 @@
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [mkhairi/materialize-sass](https://github.com/mkhairi/materialize-sass) - Materializecss rubygem for Rails Asset Pipeline / Sprockets
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
@@ -871,6 +870,7 @@
 - [gingerhendrix/scrobbler2](https://github.com/gingerhendrix/scrobbler2) - A ruby library for last.fm webservices v2
 - [CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan) - The authorization Gem for Ruby on Rails.
 - [zquestz/omniauth-google-oauth2](https://github.com/zquestz/omniauth-google-oauth2) - Oauth2 strategy for Google
+- [mkhairi/materialize-sass](https://github.com/mkhairi/materialize-sass) - Materializecss rubygem for Rails Asset Pipeline / Sprockets
 - [bilalbash/rails_5_devise_app](https://github.com/bilalbash/rails_5_devise_app) - this is a rails 5 sample application with devise
 - [rossta/serviceworker-rails](https://github.com/rossta/serviceworker-rails) - Use Service Worker with the Rails asset pipeline
 - [maestromac/Episodic](https://github.com/maestromac/Episodic) - full-stack web application inspired by Medium
