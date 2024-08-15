@@ -961,6 +961,7 @@
 
 ## TypeScript 
 
+- [nickap/vue-exit-intent](https://github.com/nickap/vue-exit-intent) - A helper to know when a user is about to leave your page.
 - [nuxtlabs/studio-module](https://github.com/nuxtlabs/studio-module) - Edit Nuxt Content website with a visual editor, in produciton.
 - [prisma/nuxt-prisma](https://github.com/prisma/nuxt-prisma) - Prisma ORM integration for Nuxt
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
