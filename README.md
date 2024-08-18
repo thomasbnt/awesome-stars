@@ -368,7 +368,6 @@
 - [probot/unfurl](https://github.com/probot/unfurl) - a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions
 - [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) - A tiny, full-featured, flexible client / server library for the Twitter API
 - [IBM/nicedoc.io](https://github.com/IBM/nicedoc.io) - pretty README as service.
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [abalabahaha/eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
 - [Vivid-IOV-Labs/web-monetization-video-ads](https://github.com/Vivid-IOV-Labs/web-monetization-video-ads) - Web Monetization Video Ads is a utility that allows you to monetize videos. It uses web monetization when available and loads ads as a fallback.
@@ -1067,6 +1066,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [Snazzah/slash-create](https://github.com/Snazzah/slash-create) - 🗡️ Creator and handler for Discord's slash commands
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [badsgahhl/pihole-browser-extension](https://github.com/badsgahhl/pihole-browser-extension) - Browser extension to control your pi-hole
 - [asigloo/vue-dynamic-forms](https://github.com/asigloo/vue-dynamic-forms) - Easy way to dynamically create reactive forms in Vue based on a varying business object model
 - [DevYukine/Kurasuta](https://github.com/DevYukine/Kurasuta) - A Custom discord.js Sharding Library inspired by eris-sharder.
