@@ -1079,7 +1079,7 @@
 - [PLhery/unfollowNinja](https://github.com/PLhery/unfollowNinja) - Get notified when your Twitter account loses a follower.
 - [advaith1/activities](https://github.com/advaith1/activities) - Discord slash command bot for opening voice channel activities, using Cloudflare Workers
 - [discohook/site](https://github.com/discohook/site) - The easiest way to build and send Discord messages using webhooks
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
