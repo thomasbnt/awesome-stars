@@ -659,7 +659,6 @@
 
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [mrrobotdotapp/docs.mrrobot.app](https://github.com/mrrobotdotapp/docs.mrrobot.app) - Full documentation for the Discord bot Mr. Robøt
-- [alvarlagerlof/neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - 📖 Website educating the public about neurodiversity
 
 ## Markdown 
 
@@ -1060,6 +1059,7 @@
 - [jacc/tunes.ninja](https://github.com/jacc/tunes.ninja) - ⚡ Supercharged Discord bot bridging the gap between music streaming services
 - [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js) - A stats poster and API wrapper for all botlists.
 - [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
+- [alvarlagerlof/neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - 📖 Website educating the public about neurodiversity
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [Plazide/node-twitch](https://github.com/Plazide/node-twitch) - A wrapper for the Helix Twitch API in NodeJS. Aims to provide methods for all Twitch API endpoints.
