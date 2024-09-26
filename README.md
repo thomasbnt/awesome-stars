@@ -371,7 +371,6 @@
 - [probot/unfurl](https://github.com/probot/unfurl) - a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions
 - [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) - A tiny, full-featured, flexible client / server library for the Twitter API
 - [IBM/nicedoc.io](https://github.com/IBM/nicedoc.io) - pretty README as service.
-- [abalabahaha/eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
 - [Vivid-IOV-Labs/web-monetization-video-ads](https://github.com/Vivid-IOV-Labs/web-monetization-video-ads) - Web Monetization Video Ads is a utility that allows you to monetize videos. It uses web monetization when available and loads ads as a fallback.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
@@ -1136,7 +1135,7 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler) - 🎧 An open source web scrobbler for Last.fm
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
