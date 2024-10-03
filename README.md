@@ -53,6 +53,7 @@
 
 ## Astro 
 
+- [DomeT99/astro-minimal](https://github.com/DomeT99/astro-minimal) - An open source blog template build with Astro and Bulma 🚀
 - [astro-community/icons](https://github.com/astro-community/icons) - Radix Icons for Astro
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [patrick91/astro-meta-tags](https://github.com/patrick91/astro-meta-tags) - A small Astro Dev Toolbar app to help you check your meta tags ✨
@@ -393,7 +394,7 @@
 - [busybox11/NowPlaying-for-Spotify](https://github.com/busybox11/NowPlaying-for-Spotify) - A Spotify Connect visualizer
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
-- [kevoj/thispersondoesnotexist-js](https://github.com/kevoj/thispersondoesnotexist-js) - Api for https://thispersondoesnotexist.com Generates an image of a person that does not exist in real life
+- [bytesleo/thispersondoesnotexist-js](https://github.com/bytesleo/thispersondoesnotexist-js) - Api for https://thispersondoesnotexist.com Generates an image of a person that does not exist in real life
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [Ilshidur/action-discord](https://github.com/Ilshidur/action-discord) - 🚀 GitHub Action that sends a Discord message.
 - [warengonzaga/bmc-updates-bot](https://github.com/warengonzaga/bmc-updates-bot) - Official open-source project for branded update Discord bot for Buy Me a Coffee Discord community server.
@@ -884,7 +885,7 @@
 
 ## Rust 
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
