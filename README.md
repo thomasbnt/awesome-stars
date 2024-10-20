@@ -675,7 +675,7 @@
 ## Others 
 
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
-- [ErikGIovani/mujeres-en-tecnologia](https://github.com/ErikGIovani/mujeres-en-tecnologia) - The list to give visibility to more women content creators or those who stand out in any field of technology.
+- [erikgiovani/mujeres-en-tecnologia](https://github.com/erikgiovani/mujeres-en-tecnologia) - The list to give visibility to more women content creators or those who stand out in any field of technology.
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
