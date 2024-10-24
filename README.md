@@ -125,7 +125,6 @@
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [sarthology/moddoc](https://github.com/sarthology/moddoc) - 🐶 Easy access to npm package's Documentation
-- [JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat) - 
 - [emmabostian/css-animations](https://github.com/emmabostian/css-animations) - A repository of CSS Animations
 - [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - feuille de styles CSS sur-vitaminée
 - [amdelamar/pm-theme](https://github.com/amdelamar/pm-theme) - 🎨 Easy Themes for ProtonMail (v3.16.x)
@@ -445,7 +444,7 @@
 - [uppernauts/year-in-dev](https://github.com/uppernauts/year-in-dev) - A web tool tool that displays a summary of your DEV.to blog's stats!
 - [codypearce/devto-material](https://github.com/codypearce/devto-material) - Material Dev.to client for 6 platforms with 100% code sharing with react native
 - [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [saurabhdaware/DEV-widget](https://github.com/saurabhdaware/DEV-widget) - Unofficial Widget/profile card for https://dev.to/
 - [shevabam/get-rss-feed-url-extension](https://github.com/shevabam/get-rss-feed-url-extension) - Retreive RSS feeds URLs from WebSite - Chrome Extension
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
@@ -823,6 +822,7 @@
 - [s0md3v/goop](https://github.com/s0md3v/goop) - Google Search Scraper
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
+- [JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat) - 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [ModisWorks/modis](https://github.com/ModisWorks/modis) - A highly modular Discord bot designed for anyone to customise and self-host.
