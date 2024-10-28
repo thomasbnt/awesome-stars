@@ -984,7 +984,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
-- [yanthomasdev/lunaria](https://github.com/yanthomasdev/lunaria) - The missing localization management toolchain for open-source projects
+- [lunariajs/lunaria](https://github.com/lunariajs/lunaria) - The missing localization management toolchain for open-source projects
 - [nickytonline/collabiano](https://github.com/nickytonline/collabiano) - A Collaborative Piano
 - [Code42Cate/devto-wrapped](https://github.com/Code42Cate/devto-wrapped) - dev.to wrapped 2023 app
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
