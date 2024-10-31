@@ -84,7 +84,7 @@
 - [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 - [aleab/toastify](https://github.com/aleab/toastify) - :mega: TOASTIFY DEVELOPMENT HAS STOPPED | Toastify adds global hotkeys and toast notifications to Spotify
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
-- [OhhSoWzrd/FileMasta](https://github.com/OhhSoWzrd/FileMasta) - A search application to explore, discover and share online files
+- [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 ## C++ 
