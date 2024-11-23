@@ -230,7 +230,7 @@
 - [prakis/stringify.me](https://github.com/prakis/stringify.me) - Quick and Easy Profiles (No Login Required)
 - [bokmann/font-awesome-rails](https://github.com/bokmann/font-awesome-rails) - the font-awesome font bundled as an asset for the rails asset pipeline
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [seyhunak/twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Twitter Bootstrap for Rails 6.0, Rails 5 - Rails 4.x Asset Pipeline
+- [seyhunak/twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Twitter Bootstrap for Rails 8
 - [healeycodes/embed-DEV-posts](https://github.com/healeycodes/embed-DEV-posts) - Embed a list of your most recent DEV posts with this tiny library 💌
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -1002,7 +1002,7 @@
 - [johannschopplich/nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - 🔸 Google Analytics & Ads integration made easy
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
-- [harlan-zw/nuxt-link-checker](https://github.com/harlan-zw/nuxt-link-checker) - Find and magically fix links that may be negatively effecting your Nuxt sites SEO.
+- [harlan-zw/nuxt-link-checker](https://github.com/harlan-zw/nuxt-link-checker) - Find and magically fix 12+ link issues that may be negatively effecting your Nuxt SEO.
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [davestewart/nuxt-content-assets](https://github.com/davestewart/nuxt-content-assets) - Enable locally-located assets in Nuxt Content
