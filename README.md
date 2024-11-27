@@ -32,7 +32,6 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -570,7 +569,6 @@
 - [jeresig/modbot](https://github.com/jeresig/modbot) - A Reddit moderation bot.
 - [yscoder/hexo-helper-qrcode](https://github.com/yscoder/hexo-helper-qrcode) - QRcode for Hexo helper plugins.
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
-- [proustibat/node.js_tuto-chat](https://github.com/proustibat/node.js_tuto-chat) - D'après le tutoriel vidéo NodeJS : Créer un tchat avec NodeJS et Socket.IO (http://www.grafikart.fr/tutoriels/nodejs/nodejs-socketio-tchat-366)
 - [soapdog/webextension-image-properties](https://github.com/soapdog/webextension-image-properties) - A simple webextension to display image/photo properties from exif data
 - [bubkoo/hexo-filter-fenced-code](https://github.com/bubkoo/hexo-filter-fenced-code) - 🎨 Extend syntax for the native fenced code block.
 - [steemit/steem-js](https://github.com/steemit/steem-js) - Steem.js the official JavaScript library for Steem blockchain
@@ -793,15 +791,12 @@
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [braginteractive/MDLWP](https://github.com/braginteractive/MDLWP) - Material Design Lite WordPress Theme
 
-## PowerShell 
-
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-
 ## Python 
 
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 - [malcolmosh/dailypi](https://github.com/malcolmosh/dailypi) - An e-paper dashboard for a Raspberry Pi Zero W.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -962,7 +957,7 @@
 
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on CloudFlare, with zero configuration.
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [pruvious/pruvious](https://github.com/pruvious/pruvious) - A reliable CMS for your Nuxt app.
 - [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
 - [nickap/vue-exit-intent](https://github.com/nickap/vue-exit-intent) - A helper to know when a user is about to leave your page.
