@@ -805,7 +805,6 @@
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [BramvdHoek/pi-hole_einkt](https://github.com/BramvdHoek/pi-hole_einkt) - Personal Pi-hole configuration with blocklists and Inky pHAT display code
