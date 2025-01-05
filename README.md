@@ -925,7 +925,7 @@
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [raketbizdev/wp_malware_cleaner](https://github.com/raketbizdev/wp_malware_cleaner) - WP Malware Cleaner
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [ScottBrenner/generate-changelog-action](https://github.com/ScottBrenner/generate-changelog-action) - GitHub Actions Hackathon 2020 winner -  lob/generate-changelog Action
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [nordtheme/konsole](https://github.com/nordtheme/konsole) - An arctic, north-bluish clean and elegant Konsole color scheme.
