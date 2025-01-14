@@ -785,7 +785,7 @@
 - [anchorcms/anchor-cms](https://github.com/anchorcms/anchor-cms) - A lightweight blog CMS for PHP
 - [tcitworld/blogotext](https://github.com/tcitworld/blogotext) - This is my fork of Blogotext (http://lehollandaisvolant.net/blogotext/fr/). It's a light CMS by Timo van Neerden (http://lehollandaisvolant.net/)
 - [hexicans/ServerMonitor](https://github.com/hexicans/ServerMonitor) - PHP Script to show the server status Memory, CPU and Disk usage
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [NeoFrag/NeoFrag](https://github.com/NeoFrag/NeoFrag) - Your turnkey gaming website, 100% free, 100% eSport!
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 - [BlogoText/blogotext-addons](https://github.com/BlogoText/blogotext-addons) - Add-ons for BlogoText
