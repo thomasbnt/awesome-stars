@@ -959,6 +959,7 @@
 
 ## TypeScript 
 
+- [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -1117,7 +1118,7 @@
 - [toddanglin/PublishToDev](https://github.com/toddanglin/PublishToDev) - Chromium browser extension and Azure Functions for the PublishTo.Dev service
 - [kometh0616/fmcord](https://github.com/kometh0616/fmcord) - A Discord bot with various Last.fm utilities
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple pure JS lightweight terminal "emulator"
+- [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple, tiny & pure JS lightweight terminal "emulator"
 - [jaxx2104/gatsby-starter-bootstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) - Gatsby starter for bootstrap
 - [docxy/docgen](https://github.com/docxy/docgen) - Docxy is a React based open-source documentation site generator. Build beautiful, blazing fast documentation sites for your projects with just markdown.
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
