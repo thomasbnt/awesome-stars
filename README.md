@@ -496,7 +496,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
-- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [jsmreese/moment-duration-format](https://github.com/jsmreese/moment-duration-format) - Format function plugin for the Moment Duration object.
 - [gitspeak/gitspeak-desktop](https://github.com/gitspeak/gitspeak-desktop) - A better way to discuss code
