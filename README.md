@@ -959,6 +959,7 @@
 
 ## TypeScript 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
@@ -1118,7 +1119,7 @@
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [toddanglin/PublishToDev](https://github.com/toddanglin/PublishToDev) - Chromium browser extension and Azure Functions for the PublishTo.Dev service
-- [kometh0616/fmcord](https://github.com/kometh0616/fmcord) - A Discord bot with various Last.fm utilities
+- [bumblecado021304/fmcord](https://github.com/bumblecado021304/fmcord) - A Discord bot with various Last.fm utilities
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple, tiny & pure JS lightweight terminal "emulator"
 - [jaxx2104/gatsby-starter-bootstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) - Gatsby starter for bootstrap
