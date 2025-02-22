@@ -999,7 +999,7 @@
 - [egidiusmengelberg/nuxt-aos](https://github.com/egidiusmengelberg/nuxt-aos) - A Nuxt module that adds Animate On Scroll
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
-- [nuxt-modules/security](https://github.com/nuxt-modules/security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
+- [Baroshem/security](https://github.com/Baroshem/security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1020,7 +1020,7 @@
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [nuxt-modules/strapi](https://github.com/nuxt-modules/strapi) - Strapi Module for Nuxt
-- [unjs/unhead](https://github.com/unjs/unhead) - Unhead is the any-framework document head manager built for SEO, performance and delightful developer experience.
+- [unjs/unhead](https://github.com/unjs/unhead) - The full stack &lt;head&gt; package for any framework.
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - The complete SEO solution for Nuxt.
 - [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
