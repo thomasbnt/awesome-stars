@@ -1064,7 +1064,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [conversationai/perspective-viewership-extension](https://github.com/conversationai/perspective-viewership-extension) - Tune is a Chrome extension that allows users set the "volume" of comment threads online by choosing what comments to read based on Toxicity scores provided by the Perspective API.
+- [conversationai/perspective-viewership-extension](https://github.com/conversationai/perspective-viewership-extension) - Tune is a Chrome extension that allows users to set the "volume" of comment threads online by choosing what comments to read based on Toxicity scores provided by the Perspective API.
 - [harlan-zw/nuxt-delay-hydration](https://github.com/harlan-zw/nuxt-delay-hydration) - Delayed hydration for progressively enhanced apps.  Reduced blocking time and improved Google Lighthouse scores. ⚡️
 - [jacc/tunes.ninja](https://github.com/jacc/tunes.ninja) - ⚡ Supercharged Discord bot bridging the gap between music streaming services
 - [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js) - A stats poster and API wrapper for all botlists.
