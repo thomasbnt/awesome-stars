@@ -931,7 +931,6 @@
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [nordtheme/konsole](https://github.com/nordtheme/konsole) - An arctic, north-bluish clean and elegant Konsole color scheme.
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
-- [ProtonVPN/protonvpn-cli](https://github.com/ProtonVPN/protonvpn-cli) - Legacy protonvpn-cli: ProtonVPN Command-Line Tool for Linux and macOS. This has been superseded by https://github.com/ProtonVPN/protonvpn-cli-ng
 - [thomasbnt/setup-ubuntu1604](https://github.com/thomasbnt/setup-ubuntu1604) - :gear: Install softwares for your Ubuntu 16.04 .
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
 - [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
