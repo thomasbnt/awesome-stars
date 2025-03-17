@@ -704,7 +704,6 @@
 - [veliovgroup/ostrio](https://github.com/veliovgroup/ostrio) - ▲ Web services for modern and legacy websites, web apps, e-commerce shops, social and corporate portals, and IoT devices. Made for top-notch experience with monitoring, security, web analytics, SEO, a
 - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-- [michaelampr/jam](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [aeris/gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [hail2u/html-best-practices](https://github.com/hail2u/html-best-practices) - For writing maintainable and scalable HTML documents
