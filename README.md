@@ -1184,7 +1184,7 @@
 
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-- [inovector/mixpost](https://github.com/inovector/mixpost) - Mixpost - Self-hosted social media management software (Buffer alternative)
+- [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [nuxt-modules/leaflet](https://github.com/nuxt-modules/leaflet) - A Nuxt module to use Leaflet
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
 - [zernonia/nuxt-lego](https://github.com/zernonia/nuxt-lego) - NuxtLego is an open source UI component layer for building your Nuxt content quick & beautiful.
