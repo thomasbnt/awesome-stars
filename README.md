@@ -319,7 +319,6 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [sindresorhus/conduct](https://github.com/sindresorhus/conduct) - 🖖 Generate a Code of Conduct for your project
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ExEr7um/vue3-vscode-snippets](https://github.com/ExEr7um/vue3-vscode-snippets) - Vue 3 snippets for VS Code
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
@@ -432,7 +431,6 @@
 - [moigonzalez/pwa-barcode-scanner](https://github.com/moigonzalez/pwa-barcode-scanner) - Information about food from the barcode, on your phone 🛒
 - [DarkSmile92/devtoapiparser](https://github.com/DarkSmile92/devtoapiparser) - DEV.to api parser for article moderation
 - [zusorio/GoodTwitterChrome](https://github.com/zusorio/GoodTwitterChrome) - 
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [BenjaminPrice/dev-social-badge](https://github.com/BenjaminPrice/dev-social-badge) - Unofficial Social Badge for DEV.to
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [spohlenz/tinymce-rails](https://github.com/spohlenz/tinymce-rails) - Integration of TinyMCE with the Rails asset pipeline
@@ -664,6 +662,7 @@
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [mrrobotdotapp/docs.mrrobot.app](https://github.com/mrrobotdotapp/docs.mrrobot.app) - Full documentation for the Discord bot Mr. Robøt
+- [alvarlagerlof/neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - 📖 Website educating the public about neurodiversity
 
 ## Markdown 
 
@@ -1033,6 +1032,7 @@
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [JessicaSachs/petite](https://github.com/JessicaSachs/petite) - 
 - [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [hattipjs/hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
@@ -1070,7 +1070,6 @@
 - [jacc/tunes.ninja](https://github.com/jacc/tunes.ninja) - ⚡ Supercharged Discord bot bridging the gap between music streaming services
 - [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js) - A stats poster and API wrapper for all botlists.
 - [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
-- [alvarlagerlof/neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - 📖 Website educating the public about neurodiversity
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [chj-web/node-twitch](https://github.com/chj-web/node-twitch) - A wrapper for the Helix Twitch API in NodeJS. Aims to provide methods for all Twitch API endpoints.
@@ -1113,6 +1112,7 @@
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [nehalist/gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem) - A Gatsby blog theme.
