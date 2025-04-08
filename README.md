@@ -1176,7 +1176,7 @@
 
 ## Vim Script 
 
-- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
+- [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [csswizardry/dotfiles](https://github.com/csswizardry/dotfiles) - Starting small… my dotfiles for a few things.
 - [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 
