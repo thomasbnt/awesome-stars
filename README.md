@@ -1072,7 +1072,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [chj-web/node-twitch](https://github.com/chj-web/node-twitch) - A wrapper for the Helix Twitch API in NodeJS. Aims to provide methods for all Twitch API endpoints.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [Snazzah/slash-create](https://github.com/Snazzah/slash-create) - 🗡️ Creator and handler for Discord's slash commands
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
