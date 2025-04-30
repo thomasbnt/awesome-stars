@@ -473,7 +473,6 @@
 - [lukejacksonn/perflink](https://github.com/lukejacksonn/perflink) - Low friction JavaScript benchmarks that you can share via URL
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
 - [xbmc/chorus2](https://github.com/xbmc/chorus2) - Official Kodi Web Interface
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [healeycodes/random-mdn-page](https://github.com/healeycodes/random-mdn-page) - Random pages from the MDN JavaScript Docs, delivered fresh to your browser 🌎
@@ -1123,6 +1122,7 @@
 - [jaxx2104/gatsby-starter-bootstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) - Gatsby starter for bootstrap
 - [docxy/docgen](https://github.com/docxy/docgen) - Docxy is a React based open-source documentation site generator. Build beautiful, blazing fast documentation sites for your projects with just markdown.
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [cloud-annotations/cloud-annotations](https://github.com/cloud-annotations/cloud-annotations) - 🐝 A fast, easy and collaborative open source image annotation tool for teams and individuals.
