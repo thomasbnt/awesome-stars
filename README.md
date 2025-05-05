@@ -1053,7 +1053,7 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
-- [DJDavid98/HammerTime](https://github.com/DJDavid98/HammerTime) - Generate timestamp indicators for Discord chat messages
+- [WentTheFox/HammerTime](https://github.com/WentTheFox/HammerTime) - Generate timestamp indicators for Discord chat messages
 - [47ng/codec](https://github.com/47ng/codec) - Universal conversion of Uint8Array from/into UTF-8, base64url and hex in the browser and Node.js
 - [nuxt-community/pwa-module](https://github.com/nuxt-community/pwa-module) - Zero config PWA solution for Nuxt.js
 - [bryanberger/figma-skeleton-generator](https://github.com/bryanberger/figma-skeleton-generator) - A Figma plugin for generating skeleton UI placeholders, specific to Discord's usecases.
