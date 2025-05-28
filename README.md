@@ -794,6 +794,7 @@
 
 ## Python 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 - [malcolmosh/dailypi](https://github.com/malcolmosh/dailypi) - An e-paper dashboard for a Raspberry Pi Zero W.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -950,6 +951,7 @@
 
 ## Svelte 
 
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
