@@ -27,6 +27,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [Liquid](#liquid)
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
@@ -655,6 +656,10 @@
 - [jsdelivr/FontFamous](https://github.com/jsdelivr/FontFamous) - Font Famous is the free vector media logo font.
 - [atom-community/ui-theme-template](https://github.com/atom-community/ui-theme-template) - A starter template for creating Atom UI themes.
 
+## Liquid 
+
+- [rubyberlin/code-of-conduct](https://github.com/rubyberlin/code-of-conduct) - 
+
 ## MDX 
 
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
@@ -898,7 +903,6 @@
 - [ciar4n/Izmir](https://github.com/ciar4n/Izmir) - Izmir - An image hover mini CSS library
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- [rubyberlin/code-of-conduct](https://github.com/rubyberlin/code-of-conduct) - 
 - [fbnlsr/my-website](https://github.com/fbnlsr/my-website) - This is my personal website.
 - [tijme/blog-v1](https://github.com/tijme/blog-v1) - My blog about cyber security, hacking, software engineering and much more.
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
