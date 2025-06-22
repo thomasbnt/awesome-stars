@@ -507,7 +507,7 @@
 - [dns-violations/dnsflagday](https://github.com/dns-violations/dnsflagday) - DNS flag day
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [GoogleChromeLabs/devwebfeed](https://github.com/GoogleChromeLabs/devwebfeed) - Firehose of team++ resources
-- [olton/metroui](https://github.com/olton/metroui) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
 - [revoverflow/discord.json](https://github.com/revoverflow/discord.json) - Discord.json | Make your own discord bot with json !
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
