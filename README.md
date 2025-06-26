@@ -309,7 +309,7 @@
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info) - Get metadata from any Spotify URL.
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [thomasbnt/Bord-Pi](https://github.com/thomasbnt/Bord-Pi) - Un robot Discord gérant et aidant les utilisateurs pour votre propre serveur.
 - [Harfeur/TwitchAlerts](https://github.com/Harfeur/TwitchAlerts) - This bot allows you to display an alert during a Twitch live, and to update the message frequently. Messages and language are customizable.
 - [useIceberg/iceberg-editor](https://github.com/useIceberg/iceberg-editor) - A beautiful writing editor for crafting posts with the WordPress block editor.
