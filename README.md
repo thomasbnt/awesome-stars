@@ -112,7 +112,7 @@
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [anvilco/html-pdf-invoice-template](https://github.com/anvilco/html-pdf-invoice-template) - An HTML invoice template for use in a browser and with HTML to PDF generation.
 - [njelich/LinkOff](https://github.com/njelich/LinkOff) - Cleans the LinkedIn feed based on keywords and filters.
-- [MatrixAges/atom.css](https://github.com/MatrixAges/atom.css) - :kissing_closed_eyes: A atom-style library of CSS atomic elements. To build app faster and more flexible.
+- [openages/atom.css](https://github.com/openages/atom.css) - :kissing_closed_eyes: A atom-style library of CSS atomic elements. To build app faster and more flexible.
 - [WordPress/design-experiments](https://github.com/WordPress/design-experiments) - A simple plugin for WP-Admin design experiments. Brought to you by the WordPress Design Team.
 - [daneden/Toast](https://github.com/daneden/Toast) - 🍞 A highly-customizable, responsive (S)CSS grid
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
