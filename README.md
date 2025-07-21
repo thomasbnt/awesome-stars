@@ -557,7 +557,6 @@
 - [desmondmorris/node-twitter](https://github.com/desmondmorris/node-twitter) - Client library for the Twitter REST and Streaming API's.
 - [sidneys/live-wallpaper-ecorp](https://github.com/sidneys/live-wallpaper-ecorp) - Animated Wallpaper featuring the E-Corp company logo from Mr. Robot.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
