@@ -160,7 +160,6 @@
 
 ## CoffeeScript 
 
-- [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
 - [jkbrzt/cloudtunes](https://github.com/jkbrzt/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
 
 ## Crystal 
@@ -589,6 +588,7 @@
 - [devsnek/googlebot](https://github.com/devsnek/googlebot) - google for discord, yo
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [browser-update/browser-update](https://github.com/browser-update/browser-update) - Remind users to update their browser in an unobtrusive way
+- [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your YouTube experience
 - [ciaranj/connect-auth](https://github.com/ciaranj/connect-auth) - Authentication middleware for connect.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
