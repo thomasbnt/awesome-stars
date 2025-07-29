@@ -53,6 +53,7 @@
 
 ## Astro 
 
+- [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) - Blog theme for Astro with search and comments built-in. Zero frameworks.
 - [DomeT99/astro-minimal](https://github.com/DomeT99/astro-minimal) - An open source blog template build with Astro and Bulma 🚀
 - [astro-community/icons](https://github.com/astro-community/icons) - Radix Icons for Astro
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
@@ -295,7 +296,6 @@
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
-- [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) - Blog theme for Astro with search and comments built-in. Zero frameworks.
 - [ePlus-DEV/blog-post-workflow](https://github.com/ePlus-DEV/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome and Firefox extension to play sounds on network requests, depending on request type and file size.
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
@@ -797,6 +797,7 @@
 
 ## Python 
 
+- [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 - [malcolmosh/dailypi](https://github.com/malcolmosh/dailypi) - An e-paper dashboard for a Raspberry Pi Zero W.
