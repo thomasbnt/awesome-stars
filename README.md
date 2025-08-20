@@ -257,7 +257,6 @@
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [720kb/hubuntu-ui](https://github.com/720kb/hubuntu-ui) - Material Admin Dashboard Starter UI ( Ubuntu style ) - https://720kb.github.io/hubuntu-ui/
 - [HarrisJT/web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
-- [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [cantonbecker/bitcoinpaperwallet](https://github.com/cantonbecker/bitcoinpaperwallet) - JavaScript Client-Side Bitcoin Wallet Generator
 - [adamjgrant/kickstart](https://github.com/adamjgrant/kickstart) - Kickstart is a CSS library designed for modularity and fast page performance
@@ -603,6 +602,7 @@
 - [mitchas/ffftp](https://github.com/mitchas/ffftp) - Electron FTP manager
 - [mappmechanic/ionic-firebase](https://github.com/mappmechanic/ionic-firebase) - Real Time multi person Chat App using Ionic & Firebase
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
+- [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
 - [ewnd9/record-desktop](https://github.com/ewnd9/record-desktop) - :movie_camera: Effortless GIFs and screenshots on Linux, built with Electron.
 - [babeuloula/Randomizer](https://github.com/babeuloula/Randomizer) - Renomer vos fichiers de façon aléatoire
