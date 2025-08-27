@@ -701,7 +701,7 @@
 - [ephraimduncan/awesome-developer-dictionary](https://github.com/ephraimduncan/awesome-developer-dictionary) - 📖 A curated list of definitions of programming terms.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges
-- [veliovgroup/ostrio](https://github.com/veliovgroup/ostrio) - ▲ Web services for modern and legacy websites, web apps, e-commerce shops, social and corporate portals, and IoT devices. Made for top-notch experience with monitoring, security, web analytics, SEO, a
+- [veliovgroup/ostrio](https://github.com/veliovgroup/ostrio) - ▲ SEO Middleware • Web Analytics • Web CRON • WebSec • HTTP & SNMP Monitoring • ostr.io is a unified web-services platform
 - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
