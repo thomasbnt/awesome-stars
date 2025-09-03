@@ -960,7 +960,7 @@
 ## TypeScript 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [nickytonline/dev-to-mcp](https://github.com/nickytonline/dev-to-mcp) - 
+- [nickytonline/dev-to-mcp](https://github.com/nickytonline/dev-to-mcp) - A remote Model Context Protocol (MCP) server for interacting with the dev.to public API without requiring authentication.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [h3js/h3](https://github.com/h3js/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
