@@ -1203,7 +1203,7 @@
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [scottyzen/woonuxt](https://github.com/scottyzen/woonuxt) - Static e-commerce powered by WooCommerce & Nuxt
-- [nuxtlabs/docus](https://github.com/nuxtlabs/docus) - Write beautiful documentations with Nuxt and Markdown.
+- [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [thomasbnt/lastfmprofile](https://github.com/thomasbnt/lastfmprofile) - An example of to get data from the API of Last.fm and show with Vue 3.
 - [thomasbnt/devtoprofile](https://github.com/thomasbnt/devtoprofile) - An example of getting data from the dev.to API to display its own articles.
 - [thomasbnt/DW_P7_Groupomania_frontend_OC](https://github.com/thomasbnt/DW_P7_Groupomania_frontend_OC) - Projet n°7 OpenClassrooms Développeur Web. — Partie Frontend.
