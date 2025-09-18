@@ -237,7 +237,7 @@
 - [seyhunak/twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Twitter Bootstrap for Rails 8
 - [healeycodes/embed-DEV-posts](https://github.com/healeycodes/embed-DEV-posts) - Embed a list of your most recent DEV posts with this tiny library 💌
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [opensourcedesign/fonts](https://github.com/opensourcedesign/fonts) - Archived since there are many great open source font sites already, see https://github.com/opensourcedesign/fonts/issues/21
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [sarthology/Animatopy](https://github.com/sarthology/Animatopy) - 🎩 Just-add-water simple CSS animations snippets
