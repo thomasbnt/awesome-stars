@@ -1004,7 +1004,7 @@
 - [Code42Cate/devto-wrapped](https://github.com/Code42Cate/devto-wrapped) - dev.to wrapped 2023 app
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [egidiusmengelberg/nuxt-aos](https://github.com/egidiusmengelberg/nuxt-aos) - A Nuxt module that adds Animate On Scroll
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
