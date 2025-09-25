@@ -961,6 +961,7 @@
 
 ## TypeScript 
 
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data
 - [danielroe/carpenter](https://github.com/danielroe/carpenter) - LLM-powered automations for triaging Nuxt issues
 - [yanthomasdev/lunaria-action](https://github.com/yanthomasdev/lunaria-action) - A GitHub Action to overview a pull request's status changes with Lunaria
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
