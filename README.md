@@ -986,7 +986,7 @@
 - [kgierke/nuxt-basic-auth](https://github.com/kgierke/nuxt-basic-auth) - Nuxt 3 Module for Basic Authentication
 - [MatthiesenXYZ/astro-mcserverstatus](https://github.com/MatthiesenXYZ/astro-mcserverstatus) - Minecraft server Status helpers and widgets for your Astro site!
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
-- [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [DiscordAnalytics/node-package](https://github.com/DiscordAnalytics/node-package) - NodeJS library for Discord Analytics for Discord.js, Oceanic.js and Eris
 - [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) - 
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
