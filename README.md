@@ -255,7 +255,6 @@
 - [secuvera/SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [dtube/production](https://github.com/dtube/production) - Production app for D.Tube
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [720kb/hubuntu-ui](https://github.com/720kb/hubuntu-ui) - Material Admin Dashboard Starter UI ( Ubuntu style ) - https://720kb.github.io/hubuntu-ui/
@@ -834,6 +833,7 @@
 - [kittenswolf/WikiTextBot](https://github.com/kittenswolf/WikiTextBot) - reddit.com/u/WikiTextBot
 - [YoloSwagTeam/t2m](https://github.com/YoloSwagTeam/t2m) - Twitter to Mastodon timeline forwarding tool
 - [chubin/qrenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [jesseward/plex-lastfm-scrobbler](https://github.com/jesseward/plex-lastfm-scrobbler) - Scrobble played audio items Last.FM from the Plex Media Server application.
 - [cookkkie/discord-app-generator](https://github.com/cookkkie/discord-app-generator) - 
 - [etra0/got](https://github.com/etra0/got) - 
