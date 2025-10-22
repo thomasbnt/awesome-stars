@@ -366,7 +366,7 @@
 - [PJijin/Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
-- [reboxer/discord-oauth2](https://github.com/reboxer/discord-oauth2) - Discord's OAuth2 API wrapper.
+- [reboxer/discord-oauth2](https://github.com/reboxer/discord-oauth2) - [DEPRECATED] Discord's OAuth2 API wrapper.
 - [minemidnight/eris-additions](https://github.com/minemidnight/eris-additions) - extend prototypes for eris
 - [probot/unfurl](https://github.com/probot/unfurl) - a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions
 - [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) - A tiny, full-featured, flexible client / server library for the Twitter API
