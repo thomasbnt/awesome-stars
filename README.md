@@ -1134,7 +1134,7 @@
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [toddanglin/PublishToDev](https://github.com/toddanglin/PublishToDev) - Chromium browser extension and Azure Functions for the PublishTo.Dev service
 - [bumblecado021304/fmcord](https://github.com/bumblecado021304/fmcord) - A Discord bot with various Last.fm utilities
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple, tiny & pure JS lightweight terminal "emulator"
 - [jaxx2104/gatsby-starter-bootstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) - Gatsby starter for bootstrap
 - [docxy/docgen](https://github.com/docxy/docgen) - Docxy is a React based open-source documentation site generator. Build beautiful, blazing fast documentation sites for your projects with just markdown.
