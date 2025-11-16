@@ -1068,7 +1068,7 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
-- [WentTheFox/HammerTime](https://github.com/WentTheFox/HammerTime) - Generate timestamp indicators for Discord chat messages
+- [WentTheFox/HammerTime](https://github.com/WentTheFox/HammerTime) - 
 - [47ng/codec](https://github.com/47ng/codec) - Universal conversion of Uint8Array from/into UTF-8, base64url and hex in the browser and Node.js
 - [nuxt-community/pwa-module](https://github.com/nuxt-community/pwa-module) - Zero config PWA solution for Nuxt.js
 - [bryanberger/figma-skeleton-generator](https://github.com/bryanberger/figma-skeleton-generator) - A Figma plugin for generating skeleton UI placeholders, specific to Discord's usecases.
@@ -1081,7 +1081,7 @@
 - [harlan-zw/nuxt-delay-hydration](https://github.com/harlan-zw/nuxt-delay-hydration) - Delayed hydration for progressively enhanced apps.  Reduced blocking time and improved Google Lighthouse scores. ⚡️
 - [jacc/tunes.ninja](https://github.com/jacc/tunes.ninja) - ⚡ Supercharged Discord bot bridging the gap between music streaming services
 - [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js) - A stats poster and API wrapper for all botlists.
-- [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
+- [plhery/node-twitter-api-v2](https://github.com/plhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [chj-web/node-twitch](https://github.com/chj-web/node-twitch) - A wrapper for the Helix Twitch API in NodeJS. Aims to provide methods for all Twitch API endpoints.
@@ -1098,7 +1098,7 @@
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [PLhery/unfollowNinja](https://github.com/PLhery/unfollowNinja) - Get notified when your Twitter account loses a follower.
+- [plhery/unfollowNinja](https://github.com/plhery/unfollowNinja) - Get notified when your Twitter account loses a follower.
 - [advaith1/activities](https://github.com/advaith1/activities) - Discord slash command bot for opening voice channel activities, using Cloudflare Workers
 - [discohook/site](https://github.com/discohook/site) - The easiest way to build and send Discord messages using webhooks (deprecated: see discohook/discohook)
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
