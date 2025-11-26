@@ -1247,6 +1247,7 @@
 
 ## mcfunction 
 
+- [limesplatus/Vanilla-Refresh](https://github.com/limesplatus/Vanilla-Refresh) - Enhancing Minecraft's experience with a variety of 30+ QOL features, like player sitting and a day counter.
 - [GoldenDelicios/world-pregen](https://github.com/GoldenDelicios/world-pregen) - Minecraft datapack: Pre-generate a Minecraft world before playing
 
 
