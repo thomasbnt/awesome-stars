@@ -1132,7 +1132,7 @@
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs, WebPs & AVIFs in Pull Requests.
 - [nehalist/gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem) - A Gatsby blog theme.
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
-- [makandz/MySpotify](https://github.com/makandz/MySpotify) - A website to view your Spotify stats.
+- [makandz/myspotify](https://github.com/makandz/myspotify) - A website to view your Spotify stats.
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [toddanglin/PublishToDev](https://github.com/toddanglin/PublishToDev) - Chromium browser extension and Azure Functions for the PublishTo.Dev service
 - [bumblecado021304/fmcord](https://github.com/bumblecado021304/fmcord) - A Discord bot with various Last.fm utilities
