@@ -1065,6 +1065,7 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [wow-actions/potential-duplicates](https://github.com/wow-actions/potential-duplicates) - 🔎 Search for potential issue duplicates using Damerau–Levenshtein algorithm
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
@@ -1215,7 +1216,6 @@
 - [thomasbnt/devtoprofile](https://github.com/thomasbnt/devtoprofile) - An example of getting data from the dev.to API to display its own articles.
 - [thomasbnt/DW_P7_Groupomania_frontend_OC](https://github.com/thomasbnt/DW_P7_Groupomania_frontend_OC) - Projet n°7 OpenClassrooms Développeur Web. — Partie Frontend.
 - [lmarschall/foodover](https://github.com/lmarschall/foodover) - A progressive web app to utilize your leftover products.
-- [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
 - [niklashaug/vue-carbonbadge](https://github.com/niklashaug/vue-carbonbadge) - Vue component for the Website Carbon Badge compatible with Vue 3
 - [kernoeb/drapeau-du-jour](https://github.com/kernoeb/drapeau-du-jour) - Drapeau du jour / Flag of the day
 - [Cv-Keep/cvkeep-frontend](https://github.com/Cv-Keep/cvkeep-frontend) - Cv Keep front end official repository
