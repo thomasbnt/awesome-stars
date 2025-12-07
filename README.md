@@ -344,7 +344,6 @@
 - [Androz2091/discord-sync-commands](https://github.com/Androz2091/discord-sync-commands) - Easily keep your bot's slash commands synchronized with Discord
 - [thomasbnt/DW_P4_La_Panthere_OC](https://github.com/thomasbnt/DW_P4_La_Panthere_OC) - Projet n°4 OpenClassrooms Développeur Web. — 14 Avril 2022.
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
-- [Disc-Solutions/discguardian](https://github.com/Disc-Solutions/discguardian) - DiscGuardian is the bot for the support of chilledbot.xyz/discord
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [Justineo/vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
@@ -1202,7 +1201,7 @@
 ## Vue 
 
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
-- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [nuxt-modules/leaflet](https://github.com/nuxt-modules/leaflet) - A Nuxt module to use Leaflet
