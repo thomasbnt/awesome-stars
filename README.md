@@ -663,7 +663,7 @@
 - [mrrobotdotapp/docs.mrrobot.app](https://github.com/mrrobotdotapp/docs.mrrobot.app) - Full documentation for the Discord bot Mr. Robøt
 - [alvarlagerlof/neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - 📖 Website educating the public about neurodiversity
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Markdown 
 
