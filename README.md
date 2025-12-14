@@ -337,7 +337,7 @@
 - [nuxt/vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [ihucos/counter.dev](https://github.com/ihucos/counter.dev) - Web Analytics made simple
-- [namukang/webtimer](https://github.com/namukang/webtimer) - Chrome extension to keep track of time usage on web sites
+- [namuorg/webtimer](https://github.com/namuorg/webtimer) - Chrome extension to keep track of time usage on web sites
 - [ThePacielloGroup/CCAe](https://github.com/ThePacielloGroup/CCAe) - The Colour Contrast Analyser (CCA) helps you determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators.
 - [alexcorremans/follow-the-sun](https://github.com/alexcorremans/follow-the-sun) - 
 - [thomasbnt/DW_P5_Kanap_OC](https://github.com/thomasbnt/DW_P5_Kanap_OC) - Projet n°5 OpenClassrooms Développeur Web. — 2 Mai 2022.
@@ -639,6 +639,7 @@
 
 ## Kotlin 
 
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [unsplash/unsplash-photopicker-android](https://github.com/unsplash/unsplash-photopicker-android) - 📱An Android photo picker to search and download photos from Unsplash.
