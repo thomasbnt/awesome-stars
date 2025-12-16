@@ -95,7 +95,6 @@
 ## C++ 
 
 - [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen) - Converseen is a batch image converter and resizer
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [CzBiX/WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher) - Dynamic patch WSL2 to listen port on any interface.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
@@ -296,6 +295,7 @@
 ## JavaScript 
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [ePlus-DEV/blog-post-workflow](https://github.com/ePlus-DEV/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome and Firefox extension to play sounds on network requests, depending on request type and file size.
@@ -976,6 +976,7 @@
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt, with almost zero-config.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [ymmooot/nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld) - A Nuxt.js module to manage JSON-LD in Vue component.
@@ -1203,7 +1204,6 @@
 
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [nuxt-modules/leaflet](https://github.com/nuxt-modules/leaflet) - A Nuxt module to use Leaflet
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
