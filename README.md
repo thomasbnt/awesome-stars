@@ -911,7 +911,7 @@
 
 ## SVG 
 
-- [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated Material Icons. Icons are animated using SVG Animations Level 2 spec, no scripts.
+- [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated icons. Multiple formats to choose from: SVG animations, SVG with CSS animations, SVG rendered frame by frame.
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 
 ## Shell 
