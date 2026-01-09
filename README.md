@@ -274,6 +274,7 @@
 ## JSON 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 
 ## Java 
 
@@ -470,7 +471,6 @@
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [xbmc/chorus2](https://github.com/xbmc/chorus2) - Official Kodi Web Interface
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [healeycodes/random-mdn-page](https://github.com/healeycodes/random-mdn-page) - Random pages from the MDN JavaScript Docs, delivered fresh to your browser 🌎
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [dat-ecosystem-archive/dat-desktop](https://github.com/dat-ecosystem-archive/dat-desktop) - Peer to peer data syncronization [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
@@ -896,6 +896,7 @@
 
 ## SCSS 
 
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [thomasbnt/vuejs3-sass-lucide-starter-kit](https://github.com/thomasbnt/vuejs3-sass-lucide-starter-kit) - A Starter Kit for a new project with Vue.js 3 + Vue Router + @unjs/Unhead for SEO, SASS and Lucide Icons. ESlint and Prettier are also configured. In this template, we have a multitude of features tha
 - [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
@@ -1031,7 +1032,6 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ismail9k/vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [nuxt-modules/strapi](https://github.com/nuxt-modules/strapi) - Strapi Module for Nuxt
 - [MatteoGabriele/vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue (gtag.js)
 - [unjs/unhead](https://github.com/unjs/unhead) - The full stack &lt;head&gt; package for any framework.
