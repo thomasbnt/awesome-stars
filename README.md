@@ -1029,7 +1029,7 @@
 - [nuxt/icon](https://github.com/nuxt/icon) - The &lt;Icon&gt; component, supporting Iconify, Emojis and custom components.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [ijkml/nuxt-umami](https://github.com/ijkml/nuxt-umami) - Umami Analytics built for Nuxt
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ismail9k/vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [nuxt-modules/strapi](https://github.com/nuxt-modules/strapi) - Strapi Module for Nuxt
