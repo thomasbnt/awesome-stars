@@ -290,7 +290,7 @@
 - [collicalex/JPEGOptimizer](https://github.com/collicalex/JPEGOptimizer) - Reduce jpeg size without lossing visual quality!
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
-- [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+- [karimknaebel/Phonograph](https://github.com/karimknaebel/Phonograph) - A material designed music player for Android
 - [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) - A Material Design ViewPager easy to use library
 
 ## JavaScript 
