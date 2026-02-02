@@ -569,7 +569,6 @@
 - [steemit/steem-js](https://github.com/steemit/steem-js) - Steem.js the official JavaScript library for Steem blockchain
 - [Danktuary/Rinon](https://github.com/Danktuary/Rinon) - An emoji server bot for some friends and I. 🎉
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
-- [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [FireController1847/embed-creator](https://github.com/FireController1847/embed-creator) - A Discord Embed Creator
@@ -782,6 +781,7 @@
 - [mlazarov/supervisord-monitor](https://github.com/mlazarov/supervisord-monitor) - Supervisord Monitoring Tool
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
 - [anchorcms/anchor-cms](https://github.com/anchorcms/anchor-cms) - A lightweight blog CMS for PHP
 - [tcitworld/blogotext](https://github.com/tcitworld/blogotext) - This is my fork of Blogotext (http://lehollandaisvolant.net/blogotext/fr/). It's a light CMS by Timo van Neerden (http://lehollandaisvolant.net/)
