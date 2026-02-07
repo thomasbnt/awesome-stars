@@ -307,7 +307,7 @@
 - [discord/cloudflare-sample-app](https://github.com/discord/cloudflare-sample-app) - Example discord bot using Cloudflare Workers
 - [emil-petras/strapi-blurhash](https://github.com/emil-petras/strapi-blurhash) - A plugin for Strapi CMS that generates blurhash for your uploaded images
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Google Lighthouse for your entire site.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Run Google Lighthouse on your entire site.
 - [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info) - Get metadata from any Spotify URL.
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [thomasbnt/Bord-Pi](https://github.com/thomasbnt/Bord-Pi) - Un robot Discord gérant et aidant les utilisateurs pour votre propre serveur.
