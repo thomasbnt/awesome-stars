@@ -374,7 +374,6 @@
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration for Nuxt 2
 - [lindsaykwardell/nuxt-github-api](https://github.com/lindsaykwardell/nuxt-github-api) - Source plugin for pulling data into Nuxt from the official GitHub v4 GraphQL API.
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
@@ -661,6 +660,7 @@
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [mrrobotdotapp/docs.mrrobot.app](https://github.com/mrrobotdotapp/docs.mrrobot.app) - Full documentation for the Discord bot Mr. Robøt
 - [alvarlagerlof/neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - 📖 Website educating the public about neurodiversity
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
@@ -962,6 +962,7 @@
 
 ## TypeScript 
 
+- [orta/keytrace](https://github.com/orta/keytrace) - A WIP keybase on atproto
 - [shi-gg/discord-contributor-role](https://github.com/shi-gg/discord-contributor-role) - Give your Discord members a contributor role if they have contributed to your GitHub project!
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data
 - [danielroe/carpenter](https://github.com/danielroe/carpenter) - LLM-powered automations for triaging Nuxt issues
