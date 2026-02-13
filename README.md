@@ -385,7 +385,6 @@
 - [xinnks/xns-audio-player](https://github.com/xinnks/xns-audio-player) - A simple customizable web music player powered by vue & HTMLAudioElement
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
-- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [twanmulder/github-readme-templates](https://github.com/twanmulder/github-readme-templates) - An overview of insightful README's to get you started in seconds.
 - [busybox11/NowPlaying-for-Spotify](https://github.com/busybox11/NowPlaying-for-Spotify) - A Spotify Connect visualizer
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
@@ -1114,6 +1113,7 @@
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
+- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [ihavecoke/nuxt-seo-meta](https://github.com/ihavecoke/nuxt-seo-meta) - Help Nuxt create seo metadata easy
 - [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - L'assistant officiel des entrepreneurs
 - [dis-moi/extension](https://github.com/dis-moi/extension) - :speech_balloon: Never browse alone again
