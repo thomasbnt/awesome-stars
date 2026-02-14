@@ -688,6 +688,7 @@
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y
 - [andypiper/awesome-modern-twitter-api](https://github.com/andypiper/awesome-modern-twitter-api) - A curated list of awesome apps built with, or libraries and resources for using, the modern Twitter API
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [conversationai/perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. See https://developers.perspectiveapi.com for more information.
 - [cassidoo/cass.run](https://github.com/cassidoo/cass.run) - My own lil URL shortener
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -1072,7 +1073,6 @@
 - [wow-actions/potential-duplicates](https://github.com/wow-actions/potential-duplicates) - 🔎 Search for potential issue duplicates using Damerau–Levenshtein algorithm
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [WentTheFox/HammerTime](https://github.com/WentTheFox/HammerTime) - 
 - [47ng/codec](https://github.com/47ng/codec) - Universal conversion of Uint8Array from/into UTF-8, base64url and hex in the browser and Node.js
 - [nuxt-community/pwa-module](https://github.com/nuxt-community/pwa-module) - Zero config PWA solution for Nuxt.js
