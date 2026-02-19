@@ -238,7 +238,6 @@
 - [prakis/stringify.me](https://github.com/prakis/stringify.me) - Quick and Easy Profiles (No Login Required)
 - [bokmann/font-awesome-rails](https://github.com/bokmann/font-awesome-rails) - the font-awesome font bundled as an asset for the rails asset pipeline
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [seyhunak/twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Twitter Bootstrap for Rails 8
 - [healeycodes/embed-DEV-posts](https://github.com/healeycodes/embed-DEV-posts) - Embed a list of your most recent DEV posts with this tiny library 💌
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [opensourcedesign/fonts](https://github.com/opensourcedesign/fonts) - Archived since there are many great open source font sites already, see https://github.com/opensourcedesign/fonts/issues/21
@@ -863,6 +862,7 @@
 - [heartcombo/simple_form](https://github.com/heartcombo/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [davidesantangelo/api.rss](https://github.com/davidesantangelo/api.rss) - RSS as RESTful. This service allows you to transform RSS feed into an awesome API.
+- [seyhunak/twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Twitter Bootstrap for Rails 8
 - [devise-two-factor/devise-two-factor](https://github.com/devise-two-factor/devise-two-factor) - Barebones two-factor authentication with Devise
 - [bootstrap-ruby/bootstrap_form](https://github.com/bootstrap-ruby/bootstrap_form) - Official repository of the bootstrap_form gem, a Rails form builder that makes it super easy to create beautiful-looking forms using Bootstrap 5.
 - [RolifyCommunity/rolify](https://github.com/RolifyCommunity/rolify) - Role management library with resource scoping
