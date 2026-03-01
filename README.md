@@ -241,6 +241,7 @@
 - [healeycodes/embed-DEV-posts](https://github.com/healeycodes/embed-DEV-posts) - Embed a list of your most recent DEV posts with this tiny library 💌
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [opensourcedesign/fonts](https://github.com/opensourcedesign/fonts) - Archived since there are many great open source font sites already, see https://github.com/opensourcedesign/fonts/issues/21
+- [plamere/OrganizeYourMusic](https://github.com/plamere/OrganizeYourMusic) - Organize your saved music on Spotify
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [sarthology/Animatopy](https://github.com/sarthology/Animatopy) - 🎩 Just-add-water simple CSS animations snippets
 - [opoloo/lines-engine](https://github.com/opoloo/lines-engine) - Lines is a customizable blog framework for Rails. It aims at making publishing simple and beautiful.
@@ -489,7 +490,6 @@
 - [gitspeak/gitspeak-desktop](https://github.com/gitspeak/gitspeak-desktop) - A better way to discuss code
 - [fejes713/accessibility-guide](https://github.com/fejes713/accessibility-guide) - A curated collection of web accessibility tips, tricks, and best practices
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [plamere/OrganizeYourMusic](https://github.com/plamere/OrganizeYourMusic) - Organize your saved music on Spotify
 - [teamxenox/devtocli](https://github.com/teamxenox/devtocli) - 👩🏻‍💻 Browse and Search Dev.to Posts from Command Line
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [TheRolfFR/WorkSpace](https://github.com/TheRolfFR/WorkSpace) - Tool to code your website in your website
