@@ -658,7 +658,7 @@
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [mrrobotdotapp/docs.mrrobot.app](https://github.com/mrrobotdotapp/docs.mrrobot.app) - Full documentation for the Discord bot Mr. Robøt
 - [alvarlagerlof/neurodiversity](https://github.com/alvarlagerlof/neurodiversity) - 📖 Website educating the public about neurodiversity
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord Developer Docs
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
