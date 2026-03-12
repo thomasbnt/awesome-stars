@@ -352,8 +352,6 @@
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
-- [jcsumlin/discord-ban-appeal](https://github.com/jcsumlin/discord-ban-appeal) - This is a ReactJS application that I made for any Discord server that wants to allow its users to appeal bans. It uses Oauth2 to prevent spam and Discord webhooks to alert moderators of new appeals. M
-- [sylveon/discord-ban-appeals](https://github.com/sylveon/discord-ban-appeals) - Sample ban appeals page with OAuth2 integration
 - [sinedied/publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
 - [haya14busa/github-action-brandings](https://github.com/haya14busa/github-action-brandings) - GitHub Actions Branding Cheat Sheet
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1183,7 +1181,7 @@
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [gengjiawen/desktop](https://github.com/gengjiawen/desktop) - Simple collaboration from your desktop
 - [armonge/gnome-shell-extension-focusli](https://github.com/armonge/gnome-shell-extension-focusli) - Improve focus and increase your productivity by listening to different sounds right from GNOME Shell.
