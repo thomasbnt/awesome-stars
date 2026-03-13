@@ -1096,7 +1096,7 @@
 - [badsgahhl/pihole-browser-extension](https://github.com/badsgahhl/pihole-browser-extension) - Browser extension to control your pi-hole (maintenance mode)
 - [asigloo/vue-dynamic-forms](https://github.com/asigloo/vue-dynamic-forms) - Easy way to dynamically create reactive forms in Vue based on a varying business object model
 - [DevYukine/Kurasuta](https://github.com/DevYukine/Kurasuta) - A Custom discord.js Sharding Library inspired by eris-sharder.
-- [ItsRauf/dataminev2](https://github.com/ItsRauf/dataminev2) - Dataminev2
+- [rosethornbush/dataminev2](https://github.com/rosethornbush/dataminev2) - Dataminev2
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
