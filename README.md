@@ -909,7 +909,7 @@
 - [ciar4n/Izmir](https://github.com/ciar4n/Izmir) - Izmir - An image hover mini CSS library
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- [fbnlsr/my-website](https://github.com/fbnlsr/my-website) - This is my personal website.
+- [fbnlsr/fabienlasserre.dev](https://github.com/fbnlsr/fabienlasserre.dev) - This is my personal website.
 - [tijme/blog-v1](https://github.com/tijme/blog-v1) - My blog about cyber security, hacking, software engineering and much more.
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 
