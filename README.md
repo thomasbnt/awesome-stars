@@ -1103,7 +1103,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [Snazzah/slash-create](https://github.com/Snazzah/slash-create) - 🗡️ Creator and handler for Discord's slash commands
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [badsgahhl/pihole-browser-extension](https://github.com/badsgahhl/pihole-browser-extension) - Browser extension to control your pi-hole (maintenance mode)
 - [asigloo/vue-dynamic-forms](https://github.com/asigloo/vue-dynamic-forms) - Easy way to dynamically create reactive forms in Vue based on a varying business object model
 - [DevYukine/Kurasuta](https://github.com/DevYukine/Kurasuta) - A Custom discord.js Sharding Library inspired by eris-sharder.
