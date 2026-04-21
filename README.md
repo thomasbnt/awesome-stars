@@ -931,7 +931,6 @@
 - [adafruit/Raspberry-Pi-Installer-Scripts](https://github.com/adafruit/Raspberry-Pi-Installer-Scripts) - 
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay 2, and Spotify Connect
 - [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
-- [Uuvana-Studios/longvinter-linux-server](https://github.com/Uuvana-Studios/longvinter-linux-server) - For public hosting and issue tracking for Longvinter Linux Server
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [orangmuda/SECTOOL](https://github.com/orangmuda/SECTOOL) - sᴇᴀʀᴄʜ ᴇɴɢɪɴᴇ sᴄʀᴀᴘᴇʀ ᴛᴏᴏʟ (ʙᴀsʜ)
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
