@@ -971,6 +971,7 @@
 
 ## TypeScript 
 
+- [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 - [orta/keytrace](https://github.com/orta/keytrace) - The monorepo for a keybase on atproto
 - [shi-gg/discord-contributor-role](https://github.com/shi-gg/discord-contributor-role) - Give your Discord members a contributor role if they have contributed to your GitHub project!
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data
@@ -989,7 +990,7 @@
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt, with almost zero-config.
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [ymmooot/nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld) - A Nuxt.js module to manage JSON-LD in Vue component.
 - [pruvious/pruvious](https://github.com/pruvious/pruvious) - A reliable CMS for your Nuxt app.
 - [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
@@ -1045,7 +1046,7 @@
 - [nuxt-modules/strapi](https://github.com/nuxt-modules/strapi) - Strapi Module for Nuxt
 - [MatteoGabriele/vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue (gtag.js)
 - [unjs/unhead](https://github.com/unjs/unhead) - The full stack &lt;head&gt; package for any framework.
-- [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - Fully equipped Technical SEO for busy Nuxters.
+- [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - Fully equipped Technical SEO & AEO for busy Nuxters.
 - [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
