@@ -1151,7 +1151,7 @@
 - [bumblecado021304/fmcord](https://github.com/bumblecado021304/fmcord) - A Discord bot with various Last.fm utilities
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple, tiny & pure JS lightweight terminal "emulator"
-- [jaxx2104/gatsby-starter-bootstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) - Gatsby starter for bootstrap
+- [jaxx2104/gatsby-starter-bootstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) - A Bootstrap 5 starter for Gatsby — fast, accessible, ready to fork.
 - [docxy/docgen](https://github.com/docxy/docgen) - Docxy is a React based open-source documentation site generator. Build beautiful, blazing fast documentation sites for your projects with just markdown.
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) - Easy Parallax Effect for React & JavaScript
