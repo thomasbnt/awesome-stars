@@ -1187,7 +1187,6 @@
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
