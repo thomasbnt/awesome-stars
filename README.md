@@ -907,7 +907,7 @@
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [thomasbnt/vuejs3-sass-lucide-starter-kit](https://github.com/thomasbnt/vuejs3-sass-lucide-starter-kit) - A Starter Kit for a new project with Vue.js 3 + Vue Router + @unjs/Unhead for SEO, SASS and Lucide Icons. ESlint and Prettier are also configured. In this template, we have a multitude of features tha
 - [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [felippe-regazio/plume-css](https://github.com/felippe-regazio/plume-css) - A lightweight, minimal and highly themeable CSS Micro-Framework
 - [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
 - [jeremiecook/protonmail-theme](https://github.com/jeremiecook/protonmail-theme) - Protonmail Theme
