@@ -643,7 +643,7 @@
 ## Kotlin 
 
 - [cj88-commits/record-collection](https://github.com/cj88-commits/record-collection) - Record Collection is a subsonic Android client
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [unsplash/unsplash-photopicker-android](https://github.com/unsplash/unsplash-photopicker-android) - 📱An Android photo picker to search and download photos from Unsplash.
