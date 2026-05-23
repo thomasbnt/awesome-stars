@@ -57,7 +57,7 @@
 - [astro-community/icons](https://github.com/astro-community/icons) - Radix Icons for Astro
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [patrick91/astro-meta-tags](https://github.com/patrick91/astro-meta-tags) - A small Astro Dev Toolbar app to help you check your meta tags ✨
-- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme.
 
 ## Bikeshed 
 
@@ -542,7 +542,6 @@
 - [forem/DevTwitter](https://github.com/forem/DevTwitter) - Bringing dev.to headlines to your Twitter browsing experience.
 - [kernox/Mastodon-Share-Browser-Extension](https://github.com/kernox/Mastodon-Share-Browser-Extension) - A share button for your Mastodon's instance
 - [johnsorrentino/favicon.js](https://github.com/johnsorrentino/favicon.js) - Given a HTML5 canvas return an ICO formatted favicon.
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [perronosaurio/baba-radio](https://github.com/perronosaurio/baba-radio) - A simple radio bot for discord
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
@@ -863,7 +862,6 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge) - A pure Ruby code highlighter that is compatible with Pygments
 - [Patreon/patreon-ruby](https://github.com/Patreon/patreon-ruby) - Interact with the Patreon API via OAuth
-- [tibastral/contrats-francais](https://github.com/tibastral/contrats-francais) - Contrats français
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [igorkasyanchuk/new_google_recaptcha](https://github.com/igorkasyanchuk/new_google_recaptcha) - reCAPTCHA v3 Ruby on Rails gem
 - [heartcombo/simple_form](https://github.com/heartcombo/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
@@ -1180,6 +1178,7 @@
 - [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
