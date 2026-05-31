@@ -970,6 +970,7 @@
 
 ## TypeScript 
 
+- [DoodzProg/Musonic](https://github.com/DoodzProg/Musonic) - A Spotify-like client for Navidrome, Subsonic & OctoFiesta — self-hosted music, done right. Built with React Native.
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 - [orta/keytrace](https://github.com/orta/keytrace) - The monorepo for a keybase on atproto
