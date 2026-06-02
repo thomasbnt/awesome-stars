@@ -759,6 +759,7 @@
 
 ## PHP 
 
+- [butialabs/lastfm](https://github.com/butialabs/lastfm) - LastFM.blue that automates weekly posting of your Last.fm Weekly Artist Chart to Bluesky (AT Protocol) and Mastodon.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -805,6 +806,7 @@
 
 ## Python 
 
+- [Arhusien/widgetctl](https://github.com/Arhusien/widgetctl) - 
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
@@ -1048,6 +1050,7 @@
 - [MatteoGabriele/vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue (gtag.js)
 - [unjs/unhead](https://github.com/unjs/unhead) - The full stack &lt;head&gt; package for any framework.
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - Fully equipped Technical SEO & AEO for busy Nuxters.
+- [scottyzen/woonuxt](https://github.com/scottyzen/woonuxt) - Static e-commerce powered by WooCommerce & Nuxt
 - [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [intlify/vue-i18n](https://github.com/intlify/vue-i18n) - Vue I18n for Vue 3
@@ -1224,7 +1227,6 @@
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-- [scottyzen/woonuxt](https://github.com/scottyzen/woonuxt) - Static e-commerce powered by WooCommerce & Nuxt
 - [thomasbnt/lastfmprofile](https://github.com/thomasbnt/lastfmprofile) - An example of to get data from the API of Last.fm and show with Vue 3.
 - [thomasbnt/devtoprofile](https://github.com/thomasbnt/devtoprofile) - An example of getting data from the dev.to API to display its own articles.
 - [thomasbnt/DW_P7_Groupomania_frontend_OC](https://github.com/thomasbnt/DW_P7_Groupomania_frontend_OC) - Projet n°7 OpenClassrooms Développeur Web. — Partie Frontend.
