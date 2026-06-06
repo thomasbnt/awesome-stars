@@ -1151,7 +1151,6 @@
 - [makandz/myspotify](https://github.com/makandz/myspotify) - A website to view your Spotify stats.
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [toddanglin/PublishToDev](https://github.com/toddanglin/PublishToDev) - Chromium browser extension and Azure Functions for the PublishTo.Dev service
-- [bumblecado021304/fmcord](https://github.com/bumblecado021304/fmcord) - A Discord bot with various Last.fm utilities
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple, tiny & pure JS lightweight terminal "emulator"
 - [jaxx2104/gatsby-starter-bootstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) - A Bootstrap 5 starter for Gatsby — fast, accessible, ready to fork.
