@@ -1216,6 +1216,7 @@
 
 ## Vue 
 
+- [thomasbnt/Discord-Entitlement-Dashboard](https://github.com/thomasbnt/Discord-Entitlement-Dashboard) - Web dashboard to manage Entitlements for a Discord App. List, filter, delete and create test entitlements.
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
