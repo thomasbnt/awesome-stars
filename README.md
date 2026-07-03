@@ -58,6 +58,7 @@
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
 - [patrick91/astro-meta-tags](https://github.com/patrick91/astro-meta-tags) - A small Astro Dev Toolbar app to help you check your meta tags ✨
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme.
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Bikeshed 
 
@@ -147,7 +148,6 @@
 - [0XE4/Pi-Holed](https://github.com/0XE4/Pi-Holed) - Personal filter lists and styles for Pi-Hole.
 - [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 - [boizz/hexo-theme-laughing](https://github.com/boizz/hexo-theme-laughing) - A lightweight hexo theme
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [alexcarpenter/material-jekyll-theme](https://github.com/alexcarpenter/material-jekyll-theme) - Material Design inspired Jekyll Theme
 - [Axel--/Naut-for-reddit](https://github.com/Axel--/Naut-for-reddit) - A css theme for reddit.com
 - [DVDAndroid/GitHubMaterialDesign](https://github.com/DVDAndroid/GitHubMaterialDesign) - GitHub in Material Design
@@ -590,7 +590,7 @@
 - [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your YouTube experience
 - [ciaranj/connect-auth](https://github.com/ciaranj/connect-auth) - Authentication middleware for connect.
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [Fiddlekins/podbot](https://github.com/Fiddlekins/podbot) - A Discord bot designed to record voice chat audio, aimed at recording a specific podcast
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [leovoel/embed-visualizer](https://github.com/leovoel/embed-visualizer) - discord embed visualization tool
@@ -785,7 +785,7 @@
 - [romainrhd/RaspMonitor](https://github.com/romainrhd/RaspMonitor) - This is a web application for raspberry pi
 - [doubotis/Monitoring](https://github.com/doubotis/Monitoring) - PHP Monitoring System for your web-services, websites and servers
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-- [owncloud/music](https://github.com/owncloud/music) - :notes: Music app for ownCloud
+- [nc-music/oc-music](https://github.com/nc-music/oc-music) - :notes: Music app for ownCloud
 - [mlazarov/supervisord-monitor](https://github.com/mlazarov/supervisord-monitor) - Supervisord Monitoring Tool
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [idno/idno](https://github.com/idno/idno) - A social publishing platform.
@@ -1171,7 +1171,7 @@
 - [kelvien/vscode-hue](https://github.com/kelvien/vscode-hue) - VS Code extension to control your Hue lights! 💡☀️🌊
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [Reeywhaar/want-my-rss](https://github.com/Reeywhaar/want-my-rss) - RSS features for Firefox
+- [reeywhaar/want-my-rss](https://github.com/reeywhaar/want-my-rss) - RSS features for Firefox
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
