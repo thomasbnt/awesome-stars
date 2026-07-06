@@ -806,7 +806,6 @@
 
 ## Python 
 
-- [Arhusien/widgetctl](https://github.com/Arhusien/widgetctl) - 
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
