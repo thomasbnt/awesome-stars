@@ -119,6 +119,7 @@
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
+- [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
 - [anvilco/html-pdf-invoice-template](https://github.com/anvilco/html-pdf-invoice-template) - An HTML invoice template for use in a browser and with HTML to PDF generation.
 - [njelich/LinkOff](https://github.com/njelich/LinkOff) - Cleans the LinkedIn feed based on keywords and filters.
 - [openages/atom.css](https://github.com/openages/atom.css) - :kissing_closed_eyes: A atom-style library of CSS atomic elements. To build app faster and more flexible.
@@ -907,7 +908,6 @@
 
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [thomasbnt/vuejs3-sass-lucide-starter-kit](https://github.com/thomasbnt/vuejs3-sass-lucide-starter-kit) - A Starter Kit for a new project with Vue.js 3 + Vue Router + @unjs/Unhead for SEO, SASS and Lucide Icons. ESlint and Prettier are also configured. In this template, we have a multitude of features tha
-- [DiscordStyles/HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) - Moves the server list from the left to the top of Discord.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [felippe-regazio/plume-css](https://github.com/felippe-regazio/plume-css) - A lightweight, minimal and highly themeable CSS Micro-Framework
 - [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
