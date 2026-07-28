@@ -53,6 +53,7 @@
 
 ## Astro 
 
+- [peltmonger/stardrive](https://github.com/peltmonger/stardrive) - The Astro boilerplate to create super stable and fast websites in the AI age
 - [Domenico-Tenace-Open-Labs/astro-minimal](https://github.com/Domenico-Tenace-Open-Labs/astro-minimal) - An open source blog template build with Astro and Bulma 🚀
 - [astro-community/icons](https://github.com/astro-community/icons) - Radix Icons for Astro
 - [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app.
