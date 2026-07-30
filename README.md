@@ -471,6 +471,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [yyx990803/register-service-worker](https://github.com/yyx990803/register-service-worker) - A script to simplify service worker registration with hooks for common events.
 - [christopherkade/banner-generator](https://github.com/christopherkade/banner-generator) - :speech_balloon: Easily generate banners for your articles on dev.to
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [rampa2510/gitesy](https://github.com/rampa2510/gitesy) - A nodejs based cli which automates the creation of a local as well as remote repo on the code hosting websites
 - [lukejacksonn/perflink](https://github.com/lukejacksonn/perflink) - Low friction JavaScript benchmarks that you can share via URL
@@ -571,7 +572,6 @@
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [soapdog/webextension-image-properties](https://github.com/soapdog/webextension-image-properties) - A simple webextension to display image/photo properties from exif data
 - [bubkoo/hexo-filter-fenced-code](https://github.com/bubkoo/hexo-filter-fenced-code) - 🎨 Extend syntax for the native fenced code block.
-- [steemit/steem-js](https://github.com/steemit/steem-js) - Steem.js the official JavaScript library for Steem blockchain
 - [Danktuary/Rinon](https://github.com/Danktuary/Rinon) - An emoji server bot for some friends and I. 🎉
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
@@ -720,7 +720,6 @@
 - [microsoft/vscode-icons](https://github.com/microsoft/vscode-icons) - Icons for Visual Studio Code
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [vernnobile/OswaldFont](https://github.com/vernnobile/OswaldFont) - repo for the Oswald font family
@@ -1196,6 +1195,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+- [steemit/steem-js](https://github.com/steemit/steem-js) - Steem.js the official JavaScript library for Steem blockchain
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
