@@ -321,7 +321,7 @@
 - [emil-petras/strapi-blurhash](https://github.com/emil-petras/strapi-blurhash) - A plugin for Strapi CMS that generates blurhash for your uploaded images
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Run Google Lighthouse on your entire site.
-- [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info) - Get metadata from any Spotify URL.
+- [microlinkhq/spotify-url-info](https://github.com/microlinkhq/spotify-url-info) - Fetch Spotify track, album, and playlist metadata from share URLs without an API key.
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [thomasbnt/Bord-Pi](https://github.com/thomasbnt/Bord-Pi) - Un robot Discord gérant et aidant les utilisateurs pour votre propre serveur.
 - [Harfeur/TwitchAlerts](https://github.com/Harfeur/TwitchAlerts) - This bot allows you to display an alert during a Twitch live, and to update the message frequently. Messages and language are customizable.
@@ -1107,7 +1107,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [chj-web/node-twitch](https://github.com/chj-web/node-twitch) - A wrapper for the Helix Twitch API in NodeJS. Aims to provide methods for all Twitch API endpoints.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [Snazzah/slash-create](https://github.com/Snazzah/slash-create) - 🗡️ Creator and handler for Discord's slash commands
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
