@@ -954,7 +954,7 @@
 - [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
 - [anjaraeu/nocdn](https://github.com/anjaraeu/nocdn) - Self-hosted alternative to CDNs.
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [angristan/nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile NGINX from source with custom modules and patches on Debian and Ubuntu
 - [nraboy/ubuntu-ionic-installer](https://github.com/nraboy/ubuntu-ionic-installer) - Installs Android, Apache Ant, Java JDK, NodeJS, Apache Cordova, and Ionic Framework
