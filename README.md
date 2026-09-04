@@ -595,7 +595,7 @@
 - [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your YouTube experience
 - [ciaranj/connect-auth](https://github.com/ciaranj/connect-auth) - Authentication middleware for connect.
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [Fiddlekins/podbot](https://github.com/Fiddlekins/podbot) - A Discord bot designed to record voice chat audio, aimed at recording a specific podcast
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [leovoel/embed-visualizer](https://github.com/leovoel/embed-visualizer) - discord embed visualization tool
