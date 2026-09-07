@@ -231,6 +231,7 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [thomasbnt/DW_P3_Ohmyfood_OC](https://github.com/thomasbnt/DW_P3_Ohmyfood_OC) - Projet n°3 OpenClassrooms Développeur Web. — 31 Mars 2022.
 - [pabio/redirect-russia](https://github.com/pabio/redirect-russia) - 🇺🇦 Redirect Russian traffic from your site to support Ukraine
+- [zachleat/details-utils](https://github.com/zachleat/details-utils) - A suite of utilities to add more features to the &lt;details&gt; element.
 - [mciastek/sal](https://github.com/mciastek/sal) - 🚀 Performance focused, lightweight scroll animation library 🚀
 - [captainbrosset/devtools-tips](https://github.com/captainbrosset/devtools-tips) - A collection of useful cross-browser DevTools tips
 - [w3c/webmention](https://github.com/w3c/webmention) - Webmention spec
@@ -364,7 +365,6 @@
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [Justineo/vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
-- [zachleat/details-utils](https://github.com/zachleat/details-utils) - A suite of utilities to add more features to the &lt;details&gt; element.
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 - [sinedied/publish-devto](https://github.com/sinedied/publish-devto) - :postbox: GitHub Action to publish markdown files on dev.to platform, with assets hosted on GitHub.
