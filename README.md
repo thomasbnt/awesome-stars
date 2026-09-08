@@ -586,7 +586,6 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [poeti8/reddbot](https://github.com/poeti8/reddbot) - A NodeJs Telegram bot to get Reddit posts.
 - [GiovanniGrieco/DiteCross](https://github.com/GiovanniGrieco/DiteCross) - Discord-Telegram Cross messaging system
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [davidcralph/hastebin-bot](https://github.com/davidcralph/hastebin-bot) - An opensource bot for Discord that posts data to Hastebin
 - [orels1/discord-token-generator](https://github.com/orels1/discord-token-generator) - An example discord oauth2 token generator
 - [devsnek/googlebot](https://github.com/devsnek/googlebot) - google for discord, yo
@@ -1150,7 +1149,7 @@
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [nuxt-modules/color-mode](https://github.com/nuxt-modules/color-mode) - Dark and Light mode with auto detection made easy with Nuxt 🌗
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -1202,6 +1201,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [steemit/steem-js](https://github.com/steemit/steem-js) - Steem.js the official JavaScript library for Steem blockchain
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [meowtec/imgo](https://github.com/meowtec/imgo) - 🖼️ Image optimization app for macOS, Windows and Linux.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
