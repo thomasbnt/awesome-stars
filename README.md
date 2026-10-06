@@ -1034,7 +1034,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -1142,7 +1142,7 @@
 - [dis-moi/extension](https://github.com/dis-moi/extension) - :speech_balloon: Never browse alone again
 - [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js) - Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API. 💻☕⚡
 - [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt
-- [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
+- [vime-js/vime](https://github.com/vime-js/vime) - Deprecated and no longer maintained. Succeeded by Video.js 10 (https://videojs.org). Customizable, accessible media player web components.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [Sneezry/vscode-devto](https://github.com/Sneezry/vscode-devto) - 
 - [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re) - 
