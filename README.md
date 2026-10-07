@@ -313,6 +313,7 @@
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 - [sawyerf/Castafiore](https://github.com/sawyerf/Castafiore) - 🎶 Castafiore is a music player that support Navidrome and Subsonic API.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [ePlus-DEV/blog-post-workflow](https://github.com/ePlus-DEV/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome and Firefox extension to play sounds on network requests, depending on request type and file size.
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
@@ -809,6 +810,7 @@
 
 ## Python 
 
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -976,7 +978,6 @@
 
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [TrySound/libras](https://github.com/TrySound/libras) - A minimalistic player that connects to your own music server.
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [DoodzProg/Musonic](https://github.com/DoodzProg/Musonic) - A Spotify-like client for Navidrome, Subsonic & OctoFiesta — self-hosted music, done right. Built with React Native.
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
@@ -992,7 +993,6 @@
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -1031,7 +1031,7 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [egidiusmengelberg/nuxt-aos](https://github.com/egidiusmengelberg/nuxt-aos) - A Nuxt module that adds Animate On Scroll
 - [openstatusHQ/astro-status-page](https://github.com/openstatusHQ/astro-status-page) - An open source astro status page
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
@@ -1216,7 +1216,7 @@
 - [dolphin-wood/smooth-scrollbar](https://github.com/dolphin-wood/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
+- [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - Wire for Web
 - [creativedeveloper-net/angular2-mdl-firebase](https://github.com/creativedeveloper-net/angular2-mdl-firebase) - Example of Angular 2 app based on angular2-mdl and Firebase
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
