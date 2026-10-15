@@ -542,7 +542,6 @@
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
 - [guytepper/lastfm-unscrobbler](https://github.com/guytepper/lastfm-unscrobbler) - Delete multiple scrobbles from your Last.fm profile
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
-- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [limhenry/urlshortener](https://github.com/limhenry/urlshortener) - A URL Shortener using Preact and Firebase (Auth, Firestore and Cloud Functions)
 - [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
@@ -882,7 +881,7 @@
 - [unsplash/unsplash_rb](https://github.com/unsplash/unsplash_rb) - 💎 Ruby wrapper for the Unsplash API.
 - [kjvarga/sitemap_generator](https://github.com/kjvarga/sitemap_generator) - SitemapGenerator is a framework-agnostic XML Sitemap generator written in Ruby with automatic Rails integration. It supports Video, News, Image, Mobile, PageMap and Alternate Links sitemap extensions 
 - [gingerhendrix/scrobbler2](https://github.com/gingerhendrix/scrobbler2) - A ruby library for last.fm webservices v2
-- [CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan) - The authorization Gem for Ruby on Rails.
+- [coorasse/cancancan](https://github.com/coorasse/cancancan) - The authorization Gem for Ruby on Rails.
 - [zquestz/omniauth-google-oauth2](https://github.com/zquestz/omniauth-google-oauth2) - Oauth2 strategy for Google
 - [mkhairi/materialize-sass](https://github.com/mkhairi/materialize-sass) - Materializecss rubygem for Rails Asset Pipeline / Sprockets
 - [bilalbash/rails_5_devise_app](https://github.com/bilalbash/rails_5_devise_app) - this is a rails 5 sample application with devise
@@ -1189,6 +1188,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
+- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
