@@ -434,7 +434,6 @@
 - [caroso1222/notyf](https://github.com/caroso1222/notyf) - 👻     A minimalistic, responsive, vanilla JavaScript library to show toast notifications.
 - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API.
 - [siddharthkp/twitter-avatar](https://github.com/siddharthkp/twitter-avatar) - Get twitter avatar from a username
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [moigonzalez/pwa-barcode-scanner](https://github.com/moigonzalez/pwa-barcode-scanner) - Information about food from the barcode, on your phone 🛒
 - [DarkSmile92/devtoapiparser](https://github.com/DarkSmile92/devtoapiparser) - DEV.to api parser for article moderation
 - [zusorio/GoodTwitterChrome](https://github.com/zusorio/GoodTwitterChrome) - 
@@ -1090,6 +1089,7 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Elements and Checkout as Vue components
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [wow-actions/potential-duplicates](https://github.com/wow-actions/potential-duplicates) - 🔎 Search for potential issue duplicates using Damerau–Levenshtein algorithm
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
@@ -1152,6 +1152,7 @@
 - [nuxt-modules/color-mode](https://github.com/nuxt-modules/color-mode) - Dark and Light mode with auto detection made easy with Nuxt 🌗
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk — a comment component based on GitHub Discussions (current, 2.x). The GitHub Issues based 1.x line is end-of-life.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -1242,7 +1243,6 @@
 - [thomasbnt/devtoprofile](https://github.com/thomasbnt/devtoprofile) - An example of getting data from the dev.to API to display its own articles.
 - [thomasbnt/DW_P7_Groupomania_frontend_OC](https://github.com/thomasbnt/DW_P7_Groupomania_frontend_OC) - Projet n°7 OpenClassrooms Développeur Web. — Partie Frontend.
 - [lmarschall/foodover](https://github.com/lmarschall/foodover) - A progressive web app to utilize your leftover products.
-- [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
 - [niklashaug/vue-carbonbadge](https://github.com/niklashaug/vue-carbonbadge) - Vue component for the Website Carbon Badge compatible with Vue 3
 - [kernoeb/drapeau-du-jour](https://github.com/kernoeb/drapeau-du-jour) - Drapeau du jour / Flag of the day
 - [Cv-Keep/cvkeep-frontend](https://github.com/Cv-Keep/cvkeep-frontend) - Cv Keep front end official repository
