@@ -704,7 +704,7 @@
 - [cassidoo/cass.run](https://github.com/cassidoo/cass.run) - My own lil URL shortener
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [TheFern2/windows-terminal-icons](https://github.com/TheFern2/windows-terminal-icons) - A sane option for icons for windows terminal profile icons
-- [Delitefully/DiscordLists](https://github.com/Delitefully/DiscordLists) - Tracking Discord data
+- [Delitefully/DiscordLists](https://github.com/Delitefully/DiscordLists) - Community-sourced dataset of the Discord app
 - [CodeMouse92/DEVModInACan](https://github.com/CodeMouse92/DEVModInACan) - Canned moderation messages and comments for DEV.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [ephraimduncan/awesome-developer-dictionary](https://github.com/ephraimduncan/awesome-developer-dictionary) - 📖 A curated list of definitions of programming terms.
