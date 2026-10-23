@@ -137,7 +137,7 @@
 - [abellsmythe/hugo-paper](https://github.com/abellsmythe/hugo-paper) - 🌩 A simple, clean, flexible Hugo theme
 - [codebygina/mundana-theme-jekyll](https://github.com/codebygina/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [sarthology/moddoc](https://github.com/sarthology/moddoc) - 🐶 Easy access to npm package's Documentation
 - [emmabostian/css-animations](https://github.com/emmabostian/css-animations) - A repository of CSS Animations
 - [alsacreations/KNACSS](https://github.com/alsacreations/KNACSS) - Styles CSS sur-vitaminés pour éléments HTML natifs
@@ -1071,7 +1071,7 @@
 - [hattipjs/hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
 - [ExEr7um/vue3-vscode-snippets](https://github.com/ExEr7um/vue3-vscode-snippets) - Vue 3 snippets for VS Code
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -1113,7 +1113,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [chj-web/node-twitch](https://github.com/chj-web/node-twitch) - A wrapper for the Helix Twitch API in NodeJS. Aims to provide methods for all Twitch API endpoints.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [Snazzah/slash-create](https://github.com/Snazzah/slash-create) - 🗡️ Creator and handler for Discord's slash commands
 - [FreeStuffBot/FreeStuff](https://github.com/FreeStuffBot/FreeStuff) - The FreeStuff Discord Bot announces free games on your Discord server. Check out our website for more information:
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
