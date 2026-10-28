@@ -974,9 +974,10 @@
 
 ## TypeScript 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [TrySound/libras](https://github.com/TrySound/libras) - A minimalistic player that connects to your own music server.
-- [DoodzProg/Musonic](https://github.com/DoodzProg/Musonic) - A Spotify-like client for Navidrome, Subsonic & OctoFiesta — self-hosted music, done right. Built with React Native.
+- [DoodzDev/Musonic](https://github.com/DoodzDev/Musonic) - A Spotify-like client for Navidrome, Subsonic & OctoFiesta — self-hosted music, done right. Built with React Native.
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 - [orta/keytrace](https://github.com/orta/keytrace) - The monorepo for a keybase on atproto
