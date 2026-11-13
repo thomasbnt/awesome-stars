@@ -806,6 +806,7 @@
 
 ## Python 
 
+- [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -976,7 +977,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [TrySound/libras](https://github.com/TrySound/libras) - A minimalistic player that connects to your own music server.
-- [DoodzDev/Musonic](https://github.com/DoodzDev/Musonic) - A Spotify-like client for Navidrome, Subsonic & OctoFiesta — self-hosted music, done right. Built with React Native.
+- [DoodzDev/Musonic](https://github.com/DoodzDev/Musonic) - Self-hosted music: Musonic Server (Rust), an Android app and a web player. Also works with Navidrome and other Subsonic servers.
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 - [orta/keytrace](https://github.com/orta/keytrace) - The monorepo for a keybase on atproto
