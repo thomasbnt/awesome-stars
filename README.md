@@ -982,7 +982,7 @@
 - [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 - [orta/keytrace](https://github.com/orta/keytrace) - The monorepo for a keybase on atproto
 - [shi-gg/discord-contributor-role](https://github.com/shi-gg/discord-contributor-role) - Give your Discord members a contributor role if they have contributed to your GitHub project!
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your music data
 - [danielroe/carpenter](https://github.com/danielroe/carpenter) - LLM-powered automations for triaging Nuxt issues
 - [yanthomasdev/lunaria-action](https://github.com/yanthomasdev/lunaria-action) - A GitHub Action to overview a pull request's status changes with Lunaria
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
