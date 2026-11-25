@@ -575,7 +575,6 @@
 - [bubkoo/hexo-filter-fenced-code](https://github.com/bubkoo/hexo-filter-fenced-code) - 🎨 Extend syntax for the native fenced code block.
 - [Danktuary/Rinon](https://github.com/Danktuary/Rinon) - An emoji server bot for some friends and I. 🎉
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
-- [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [FireController1847/embed-creator](https://github.com/FireController1847/embed-creator) - A Discord Embed Creator
 - [eslachance/etiket](https://github.com/eslachance/etiket) - A dead-simple tagbot with blacklist.
@@ -793,6 +792,7 @@
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
 - [anchorcms/anchor-cms](https://github.com/anchorcms/anchor-cms) - A lightweight blog CMS for PHP
 - [tcitworld/blogotext](https://github.com/tcitworld/blogotext) - This is my fork of Blogotext (http://lehollandaisvolant.net/blogotext/fr/). It's a light CMS by Timo van Neerden (http://lehollandaisvolant.net/)
+- [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [hexicans/ServerMonitor](https://github.com/hexicans/ServerMonitor) - PHP Script to show the server status Memory, CPU and Disk usage
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [NeoFrag/NeoFrag](https://github.com/NeoFrag/NeoFrag) - Your turnkey gaming website, 100% free, 100% eSport!
@@ -897,7 +897,6 @@
 
 ## Rust 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -1094,10 +1093,10 @@
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Elements and Checkout as Vue components
-- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [made-in-common/sponsorkit](https://github.com/made-in-common/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [wow-actions/potential-duplicates](https://github.com/wow-actions/potential-duplicates) - 🔎 Search for potential issue duplicates using Damerau–Levenshtein algorithm
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [WentTheFox/HammerTime](https://github.com/WentTheFox/HammerTime) - Legacy version of the HammerTime project written using Next.js
 - [47ng/codec](https://github.com/47ng/codec) - Universal conversion of Uint8Array from/into UTF-8, base64url and hex in the browser and Node.js
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
